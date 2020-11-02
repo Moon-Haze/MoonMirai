@@ -1,0 +1,1471 @@
+2020-10-21 17:25:45 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 17:25:45 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 17:25:45 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 17:25:45 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-21 17:25:45 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 17:25:45 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 17:25:47 V/Net 2163973016: Send: OidbSvc.0x89a_0
+2020-10-21 17:25:47 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:25:48 V/Net 2163973016: Recv: TroopManagement.GroupOperation.Response
+2020-10-21 17:25:56 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:26:14 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 17:26:14 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 17:26:14 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 17:31:07 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 17:31:07 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 17:31:07 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 17:31:11 V/Net 2163973016: Send: OidbSvc.0x89a_0
+2020-10-21 17:31:11 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:31:12 V/Net 2163973016: Recv: TroopManagement.GroupOperation.Response
+2020-10-21 17:31:20 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:32:04 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:32:04 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:33:04 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:33:04 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:34:03 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 17:34:03 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 17:34:03 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 17:34:04 V/Net 2163973016: Send: OidbSvc.0x89a_0
+2020-10-21 17:34:04 V/Net 2163973016: Send: OidbSvc.0x570_8
+2020-10-21 17:34:04 V/Net 2163973016: Recv: Response(Mute)
+2020-10-21 17:34:04 V/Net 2163973016: Recv: TroopManagement.GroupOperation.Response
+2020-10-21 17:34:04 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:34:04 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:34:12 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:34:12 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:34:53 V/Net 2163973016: Send: OidbSvc.0x89a_0
+2020-10-21 17:34:53 V/Net 2163973016: Send: OidbSvc.0x570_8
+2020-10-21 17:34:53 V/Net 2163973016: Recv: Response(Mute)
+2020-10-21 17:34:53 V/Net 2163973016: Recv: TroopManagement.GroupOperation.Response
+2020-10-21 17:34:53 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:35:00 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:35:00 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:35:01 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:36:00 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:36:00 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:37:00 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:37:00 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:37:21 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 17:37:21 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 17:37:21 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 17:37:24 I/Net 2163973016: Connected to server 42.81.172.81:80
+2020-10-21 17:37:24 V/Net 2163973016: Send: wtlogin.login
+2020-10-21 17:37:24 V/Net 2163973016: Recv: LoginPacketResponse.Success
+2020-10-21 17:37:24 I/Net 2163973016: Login successful
+2020-10-21 17:37:24 V/Net 2163973016: Send: StatSvc.register
+2020-10-21 17:37:24 V/Net 2163973016: Recv: Response(StatSvc.register)
+2020-10-21 17:37:24 I/Net 2163973016: Syncing friend message history...
+2020-10-21 17:37:24 V/Net 2163973016: Send: MessageSvc.PbGetMsg
+2020-10-21 17:37:24 V/Net 2163973016: Send: MessageSvc.PbDeleteMsg
+2020-10-21 17:37:25 I/Net 2163973016: Syncing friend message history: Success
+2020-10-21 17:37:25 V/Net 2163973016: Send: OidbSvc.0x89a_0
+2020-10-21 17:37:25 V/Net 2163973016: Send: OidbSvc.0x570_8
+2020-10-21 17:37:25 V/Net 2163973016: Recv: TroopManagement.GroupOperation.Response
+2020-10-21 17:37:25 V/Net 2163973016: Recv: Response(Mute)
+2020-10-21 17:37:25 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:37:27 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 17:37:27 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 17:37:30 I/Net 2163973016: Connected to server 42.81.172.81:80
+2020-10-21 17:37:30 V/Net 2163973016: Send: wtlogin.login
+2020-10-21 17:37:30 V/Net 2163973016: Recv: LoginPacketResponse.Success
+2020-10-21 17:37:30 I/Net 2163973016: Login successful
+2020-10-21 17:37:30 V/Net 2163973016: Send: StatSvc.register
+2020-10-21 17:37:30 V/Net 2163973016: Recv: Response(StatSvc.register)
+2020-10-21 17:37:30 I/Net 2163973016: Syncing friend message history...
+2020-10-21 17:37:30 V/Net 2163973016: Send: MessageSvc.PbGetMsg
+2020-10-21 17:37:30 V/Net 2163973016: Send: MessageSvc.PbDeleteMsg
+2020-10-21 17:37:30 I/Net 2163973016: Syncing friend message history: Success
+2020-10-21 17:37:33 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 17:37:33 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 17:37:36 I/Net 2163973016: Connected to server 114.221.148.59:14000
+2020-10-21 17:37:36 V/Net 2163973016: Send: wtlogin.login
+2020-10-21 17:37:36 V/Net 2163973016: Recv: LoginPacketResponse.Success
+2020-10-21 17:37:36 I/Net 2163973016: Login successful
+2020-10-21 17:37:36 V/Net 2163973016: Send: StatSvc.register
+2020-10-21 17:37:36 V/Net 2163973016: Recv: Response(StatSvc.register)
+2020-10-21 17:37:36 I/Net 2163973016: Syncing friend message history...
+2020-10-21 17:37:36 V/Net 2163973016: Send: MessageSvc.PbGetMsg
+2020-10-21 17:37:37 V/Net 2163973016: Send: MessageSvc.PbDeleteMsg
+2020-10-21 17:37:37 I/Net 2163973016: Syncing friend message history: Success
+2020-10-21 17:37:37 V/Net 2163973016: Send: OidbSvc.0x89a_0
+2020-10-21 17:37:37 V/Net 2163973016: Send: OidbSvc.0x570_8
+2020-10-21 17:37:37 V/Net 2163973016: Recv: TroopManagement.GroupOperation.Response
+2020-10-21 17:37:37 V/Net 2163973016: Recv: Response(Mute)
+2020-10-21 17:37:37 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:37:39 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 17:37:39 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 17:37:39 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-21 17:37:39 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 17:37:39 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 17:37:43 V/Net 2163973016: Send: OidbSvc.0x89a_0
+2020-10-21 17:37:43 V/Net 2163973016: Send: OidbSvc.0x570_8
+2020-10-21 17:37:43 V/Net 2163973016: Recv: Response(Mute)
+2020-10-21 17:37:43 V/Net 2163973016: Recv: TroopManagement.GroupOperation.Response
+2020-10-21 17:37:43 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:37:46 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:37:51 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:38:36 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:38:36 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:39:12 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:39:21 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:39:28 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-21 17:39:28 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 17:39:28 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 17:39:28 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 17:39:30 V/Net 2163973016: Send: OidbSvc.0x570_8
+2020-10-21 17:39:30 V/Net 2163973016: Recv: Response(Mute)
+2020-10-21 17:39:30 V/Net 2163973016: Send: OidbSvc.0x570_8
+2020-10-21 17:39:30 V/Net 2163973016: Recv: Response(Mute)
+2020-10-21 17:39:30 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:39:36 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:39:37 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:39:39 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:39:51 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:40:00 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:40:27 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 17:40:27 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 17:40:27 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 17:40:37 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:40:37 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:40:38 V/Net 2163973016: Send: OidbSvc.0x570_8
+2020-10-21 17:40:39 V/Net 2163973016: Recv: Response(Mute)
+2020-10-21 17:40:39 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:40:47 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:41:24 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:41:25 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:41:37 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:41:37 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:41:56 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 17:41:56 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 17:41:56 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 17:42:00 V/Net 2163973016: Send: OidbSvc.0x570_8
+2020-10-21 17:42:00 V/Net 2163973016: Recv: Response(Mute)
+2020-10-21 17:42:00 V/Net 2163973016: Send: OidbSvc.0x570_8
+2020-10-21 17:42:00 V/Net 2163973016: Recv: Response(Mute)
+2020-10-21 17:42:00 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:42:08 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:42:37 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:42:37 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:42:45 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-21 17:42:45 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 17:42:45 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 17:42:45 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 17:42:45 V/Net 2163973016: Send: OidbSvc.0x570_8
+2020-10-21 17:42:45 V/Net 2163973016: Recv: Response(Mute)
+2020-10-21 17:42:48 V/Net 2163973016: Send: OidbSvc.0x570_8
+2020-10-21 17:42:48 V/Net 2163973016: Recv: Response(Mute)
+2020-10-21 17:42:48 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:42:56 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:43:09 V/Net 2163973016: Send: OidbSvc.0x570_8
+2020-10-21 17:43:09 V/Net 2163973016: Recv: Response(Mute)
+2020-10-21 17:43:09 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-21 17:43:09 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 17:43:09 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 17:43:09 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 17:43:37 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:43:37 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:43:48 V/Net 2163973016: Send: OidbSvc.0x570_8
+2020-10-21 17:43:48 V/Net 2163973016: Recv: Response(Mute)
+2020-10-21 17:43:55 V/Net 2163973016: Send: OidbSvc.0x570_8
+2020-10-21 17:43:55 V/Net 2163973016: Recv: Response(Mute)
+2020-10-21 17:44:06 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:44:06 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:44:32 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-21 17:44:32 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 17:44:32 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 17:44:32 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 17:44:34 V/Net 2163973016: Send: OidbSvc.0x570_8
+2020-10-21 17:44:34 V/Net 2163973016: Recv: Response(Mute)
+2020-10-21 17:44:37 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:44:37 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:45:10 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:45:18 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:45:29 V/Net 2163973016: Send: OidbSvc.0x570_8
+2020-10-21 17:45:29 V/Net 2163973016: Recv: Response(Mute)
+2020-10-21 17:45:29 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:45:29 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:45:37 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:45:37 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:46:26 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 17:46:26 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 17:46:26 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 17:46:27 V/Net 2163973016: Send: OidbSvc.0x570_8
+2020-10-21 17:46:27 V/Net 2163973016: Recv: Response(Mute)
+2020-10-21 17:46:27 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:46:37 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:46:37 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:46:45 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 17:46:45 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 17:46:45 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 17:46:47 V/Net 2163973016: Send: OidbSvc.0x570_8
+2020-10-21 17:46:47 V/Net 2163973016: Recv: Response(Mute)
+2020-10-21 17:46:47 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:46:55 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 17:47:23 V/Net 2163973016: Send: OidbSvc.0x570_8
+2020-10-21 17:47:23 V/Net 2163973016: Recv: Response(Mute)
+2020-10-21 17:47:37 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:47:37 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:47:42 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:47:43 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:48:37 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:48:37 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:48:43 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:48:43 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:48:55 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 17:48:55 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 17:48:55 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 17:48:57 V/Net 2163973016: Send: friendlist.ModifyGroupCardReq
+2020-10-21 17:48:57 V/Net 2163973016: Send: friendlist.ModifyGroupCardReq
+2020-10-21 17:48:57 V/Net 2163973016: Send: friendlist.ModifyGroupCardReq
+2020-10-21 17:48:57 V/Net 2163973016: Send: friendlist.ModifyGroupCardReq
+2020-10-21 17:48:57 V/Net 2163973016: Send: friendlist.ModifyGroupCardReq
+2020-10-21 17:48:57 V/Net 2163973016: Send: friendlist.ModifyGroupCardReq
+2020-10-21 17:48:57 V/Net 2163973016: Recv: TroopManagement.EditGroupNametag.Response
+2020-10-21 17:48:57 V/Net 2163973016: Recv: TroopManagement.EditGroupNametag.Response
+2020-10-21 17:48:57 V/Net 2163973016: Recv: TroopManagement.EditGroupNametag.Response
+2020-10-21 17:48:57 V/Net 2163973016: Recv: TroopManagement.EditGroupNametag.Response
+2020-10-21 17:48:57 V/Net 2163973016: Recv: TroopManagement.EditGroupNametag.Response
+2020-10-21 17:48:57 V/Net 2163973016: Recv: TroopManagement.EditGroupNametag.Response
+2020-10-21 17:49:37 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:49:37 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:49:52 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:49:52 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:50:37 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:50:37 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:50:52 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:50:52 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:51:37 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:51:37 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:51:49 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 17:51:49 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 17:51:49 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 17:52:37 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:52:38 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:52:46 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:52:46 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:53:07 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 17:53:07 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 17:53:07 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 17:53:21 E/Net 2163973016: Exception in NetworkHandler
+java.lang.IllegalStateException: δ�ҵ��쳣������. ��̳� SimpleListenerHost �е� handleException ����, ���ڹ��� SimpleListenerHost ʱ�ṩ CoroutineExceptionHandler
+------------
+Cannot find exception handler from coroutineContext. 
+Please extend SimpleListenerHost.handleException or provide a CoroutineExceptionHandler to the constructor of SimpleListenerHost
+	at net.mamoe.mirai.event.SimpleListenerHost.handleException(JvmMethodListeners.kt:194)
+	at edu.sdust.moon.Core.MiraiStart$1.handleException(Start.java:66)
+	at net.mamoe.mirai.event.SimpleListenerHost$$special$$inlined$CoroutineExceptionHandler$1.handleException(CoroutineExceptionHandler.kt:111)
+	at net.mamoe.mirai.event.internal.Handler.onEvent(InternalEventListeners.kt:91)
+	at net.mamoe.mirai.event.internal.Handler$onEvent$1.invokeSuspend(InternalEventListeners.kt)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.UndispatchedCoroutine.afterResume(Builders.common.kt:214)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:113)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:55)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:571)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:738)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:678)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:665)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at net.mamoe.mirai.event.internal.EventInternalJvmKt$registerEvent$15$1.invokeSuspend(EventInternalJvm.kt:182)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:56)
+	... 4 more
+Caused by: java.lang.UnsupportedOperationException: nudge is supported only with protocol ANDROID_PHONE
+	at net.mamoe.mirai.qqandroid.QQAndroidBot.sendNudge(QQAndroidBot.common.kt:235)
+	at net.mamoe.mirai.message.action.Nudge.sendTo(Nudge.kt:58)
+	at net.mamoe.mirai.message.action.Nudge$Companion.sendNudge(Nudge.kt:76)
+	at net.mamoe.mirai.message.action.Nudge$Companion$$sendNudge$$bb$olFzFJs.invoke(Unknown Source)
+	at kotlin.coroutines.intrinsics.IntrinsicsKt__IntrinsicsJvmKt$createCoroutineUnintercepted$$inlined$createCoroutineFromSuspendFunction$IntrinsicsKt__IntrinsicsJvmKt$1.invokeSuspend(IntrinsicsJvm.kt:205)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlin.coroutines.ContinuationKt.startCoroutine(Continuation.kt:115)
+	at net.mamoe.kjbb.internal.RunBlockingKt.$runSuspend$(RunBlocking.kt:18)
+	at net.mamoe.mirai.message.action.Nudge$Companion.sendNudge(Nudge.kt)
+	at edu.sdust.moon.Response.MemberResponse.sendNudge(MemberResponse.java:194)
+	at edu.sdust.moon.Core.MiraiStart$1.GroupMessageEvent(Start.java:58)
+	... 11 more
+
+2020-10-21 17:53:38 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:53:38 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:54:04 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:54:04 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:54:38 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:54:38 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:55:38 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:55:38 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:56:38 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:56:38 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:56:56 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 17:56:56 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 17:56:56 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 17:56:59 E/Net 2163973016: Exception in NetworkHandler
+java.lang.IllegalStateException: δ�ҵ��쳣������. ��̳� SimpleListenerHost �е� handleException ����, ���ڹ��� SimpleListenerHost ʱ�ṩ CoroutineExceptionHandler
+------------
+Cannot find exception handler from coroutineContext. 
+Please extend SimpleListenerHost.handleException or provide a CoroutineExceptionHandler to the constructor of SimpleListenerHost
+	at net.mamoe.mirai.event.SimpleListenerHost.handleException(JvmMethodListeners.kt:194)
+	at edu.sdust.moon.Core.MiraiStart$1.handleException(Start.java:65)
+	at net.mamoe.mirai.event.SimpleListenerHost$$special$$inlined$CoroutineExceptionHandler$1.handleException(CoroutineExceptionHandler.kt:111)
+	at net.mamoe.mirai.event.internal.Handler.onEvent(InternalEventListeners.kt:91)
+	at net.mamoe.mirai.event.internal.Handler$onEvent$1.invokeSuspend(InternalEventListeners.kt)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.UndispatchedCoroutine.afterResume(Builders.common.kt:214)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:113)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:55)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:571)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:738)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:678)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:665)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at net.mamoe.mirai.event.internal.EventInternalJvmKt$registerEvent$15$1.invokeSuspend(EventInternalJvm.kt:182)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:56)
+	... 4 more
+Caused by: java.lang.UnsupportedOperationException: nudge is supported only with protocol ANDROID_PHONE
+	at net.mamoe.mirai.qqandroid.QQAndroidBot.sendNudge(QQAndroidBot.common.kt:235)
+	at net.mamoe.mirai.message.action.Nudge.sendTo(Nudge.kt:58)
+	at net.mamoe.mirai.message.action.Nudge$Companion.sendNudge(Nudge.kt:76)
+	at net.mamoe.mirai.message.action.Nudge$Companion$$sendNudge$$bb$olFzFJs.invoke(Unknown Source)
+	at kotlin.coroutines.intrinsics.IntrinsicsKt__IntrinsicsJvmKt$createCoroutineUnintercepted$$inlined$createCoroutineFromSuspendFunction$IntrinsicsKt__IntrinsicsJvmKt$1.invokeSuspend(IntrinsicsJvm.kt:205)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlin.coroutines.ContinuationKt.startCoroutine(Continuation.kt:115)
+	at net.mamoe.kjbb.internal.RunBlockingKt.$runSuspend$(RunBlocking.kt:18)
+	at net.mamoe.mirai.message.action.Nudge$Companion.sendNudge(Nudge.kt)
+	at edu.sdust.moon.Response.GroupResponse.sendNudge(GroupResponse.java:94)
+	at edu.sdust.moon.Core.MiraiStart$1.GroupMessageEvent(Start.java:58)
+	... 11 more
+
+2020-10-21 17:57:38 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:57:38 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:57:53 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:57:54 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:58:38 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:58:38 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:58:57 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 17:58:57 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 17:58:57 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 17:59:11 E/Net 2163973016: Exception in NetworkHandler
+java.lang.IllegalStateException: δ�ҵ��쳣������. ��̳� SimpleListenerHost �е� handleException ����, ���ڹ��� SimpleListenerHost ʱ�ṩ CoroutineExceptionHandler
+------------
+Cannot find exception handler from coroutineContext. 
+Please extend SimpleListenerHost.handleException or provide a CoroutineExceptionHandler to the constructor of SimpleListenerHost
+	at net.mamoe.mirai.event.SimpleListenerHost.handleException(JvmMethodListeners.kt:194)
+	at edu.sdust.moon.Core.MiraiStart$1.handleException(Start.java:68)
+	at net.mamoe.mirai.event.SimpleListenerHost$$special$$inlined$CoroutineExceptionHandler$1.handleException(CoroutineExceptionHandler.kt:111)
+	at net.mamoe.mirai.event.internal.Handler.onEvent(InternalEventListeners.kt:91)
+	at net.mamoe.mirai.event.internal.Handler$onEvent$1.invokeSuspend(InternalEventListeners.kt)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.UndispatchedCoroutine.afterResume(Builders.common.kt:214)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:113)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:55)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:571)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:738)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:678)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:665)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at net.mamoe.mirai.event.internal.EventInternalJvmKt$registerEvent$15$1.invokeSuspend(EventInternalJvm.kt:182)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:56)
+	... 4 more
+Caused by: java.lang.UnsupportedOperationException: nudge is supported only with protocol ANDROID_PHONE
+	at net.mamoe.mirai.qqandroid.QQAndroidBot.sendNudge(QQAndroidBot.common.kt:235)
+	at net.mamoe.mirai.message.action.Nudge.sendTo(Nudge.kt:58)
+	at net.mamoe.mirai.message.action.Nudge$Companion.sendNudge(Nudge.kt:76)
+	at net.mamoe.mirai.message.action.Nudge$Companion$$sendNudge$$bb$olFzFJs.invoke(Unknown Source)
+	at kotlin.coroutines.intrinsics.IntrinsicsKt__IntrinsicsJvmKt$createCoroutineUnintercepted$$inlined$createCoroutineFromSuspendFunction$IntrinsicsKt__IntrinsicsJvmKt$1.invokeSuspend(IntrinsicsJvm.kt:205)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlin.coroutines.ContinuationKt.startCoroutine(Continuation.kt:115)
+	at net.mamoe.kjbb.internal.RunBlockingKt.$runSuspend$(RunBlocking.kt:18)
+	at net.mamoe.mirai.message.action.Nudge$Companion.sendNudge(Nudge.kt)
+	at edu.sdust.moon.Response.GroupResponse.sendNudge(GroupResponse.java:94)
+	at edu.sdust.moon.Core.MiraiStart$1.GroupMessageEvent(Start.java:58)
+	... 11 more
+
+2020-10-21 17:59:38 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:59:38 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 17:59:54 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 17:59:54 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:00:38 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:00:38 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:00:54 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:00:55 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:01:38 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:01:38 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:01:55 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:01:55 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:02:38 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:02:38 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:02:39 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 18:02:39 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 18:02:39 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 18:02:41 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:02:41 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:02:42 V/Net 2163973016: Recv: net.mamoe.mirai.qqandroid.network.protocol.data.jce.RequestPushNotify@44eb054a
+2020-10-21 18:02:42 V/Net 2163973016: Send: MessageSvc.PbGetMsg
+2020-10-21 18:02:42 V/Net 2163973016: Send: MessageSvc.PbDeleteMsg
+2020-10-21 18:02:42 E/Net 2163973016: Exception in NetworkHandler
+java.lang.IllegalStateException: δ�ҵ��쳣������. ��̳� SimpleListenerHost �е� handleException ����, ���ڹ��� SimpleListenerHost ʱ�ṩ CoroutineExceptionHandler
+------------
+Cannot find exception handler from coroutineContext. 
+Please extend SimpleListenerHost.handleException or provide a CoroutineExceptionHandler to the constructor of SimpleListenerHost
+	at net.mamoe.mirai.event.SimpleListenerHost.handleException(JvmMethodListeners.kt:194)
+	at edu.sdust.moon.Core.MiraiStart$1.handleException(Start.java:69)
+	at net.mamoe.mirai.event.SimpleListenerHost$$special$$inlined$CoroutineExceptionHandler$1.handleException(CoroutineExceptionHandler.kt:111)
+	at net.mamoe.mirai.event.internal.Handler.onEvent(InternalEventListeners.kt:91)
+	at net.mamoe.mirai.event.internal.Handler$onEvent$1.invokeSuspend(InternalEventListeners.kt)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.UndispatchedCoroutine.afterResume(Builders.common.kt:214)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:113)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:55)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:571)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:738)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:678)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:665)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at net.mamoe.mirai.event.internal.EventInternalJvmKt$registerEvent$15$1.invokeSuspend(EventInternalJvm.kt:182)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:56)
+	... 4 more
+Caused by: java.lang.UnsupportedOperationException: nudge is supported only with protocol ANDROID_PHONE
+	at net.mamoe.mirai.qqandroid.QQAndroidBot.sendNudge(QQAndroidBot.common.kt:235)
+	at net.mamoe.mirai.message.action.Nudge.sendTo(Nudge.kt:58)
+	at net.mamoe.mirai.message.action.Nudge$Companion.sendNudge(Nudge.kt:76)
+	at net.mamoe.mirai.message.action.Nudge$Companion$$sendNudge$$bb$olFzFJs.invoke(Unknown Source)
+	at kotlin.coroutines.intrinsics.IntrinsicsKt__IntrinsicsJvmKt$createCoroutineUnintercepted$$inlined$createCoroutineFromSuspendFunction$IntrinsicsKt__IntrinsicsJvmKt$1.invokeSuspend(IntrinsicsJvm.kt:205)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlin.coroutines.ContinuationKt.startCoroutine(Continuation.kt:115)
+	at net.mamoe.kjbb.internal.RunBlockingKt.$runSuspend$(RunBlocking.kt:18)
+	at net.mamoe.mirai.message.action.Nudge$Companion.sendNudge(Nudge.kt)
+	at edu.sdust.moon.Response.FriendResponse.sendNudge(FriendResponse.java:147)
+	at edu.sdust.moon.Core.MiraiStart$1.FriendMessageEvent(Start.java:49)
+	... 11 more
+
+2020-10-21 18:02:50 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:02:50 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:02:53 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:02:54 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:02:54 V/Net 2163973016: Recv: net.mamoe.mirai.qqandroid.network.protocol.data.jce.RequestPushNotify@17d41e52
+2020-10-21 18:02:54 V/Net 2163973016: Send: MessageSvc.PbGetMsg
+2020-10-21 18:02:54 V/Net 2163973016: Send: MessageSvc.PbDeleteMsg
+2020-10-21 18:02:54 E/Net 2163973016: Exception in NetworkHandler
+java.lang.IllegalStateException: δ�ҵ��쳣������. ��̳� SimpleListenerHost �е� handleException ����, ���ڹ��� SimpleListenerHost ʱ�ṩ CoroutineExceptionHandler
+------------
+Cannot find exception handler from coroutineContext. 
+Please extend SimpleListenerHost.handleException or provide a CoroutineExceptionHandler to the constructor of SimpleListenerHost
+	at net.mamoe.mirai.event.SimpleListenerHost.handleException(JvmMethodListeners.kt:194)
+	at edu.sdust.moon.Core.MiraiStart$1.handleException(Start.java:69)
+	at net.mamoe.mirai.event.SimpleListenerHost$$special$$inlined$CoroutineExceptionHandler$1.handleException(CoroutineExceptionHandler.kt:111)
+	at net.mamoe.mirai.event.internal.Handler.onEvent(InternalEventListeners.kt:91)
+	at net.mamoe.mirai.event.internal.Handler$onEvent$1.invokeSuspend(InternalEventListeners.kt)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.UndispatchedCoroutine.afterResume(Builders.common.kt:214)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:113)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:55)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:571)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:738)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:678)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:665)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at net.mamoe.mirai.event.internal.EventInternalJvmKt$registerEvent$15$1.invokeSuspend(EventInternalJvm.kt:182)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:56)
+	... 4 more
+Caused by: java.lang.UnsupportedOperationException: nudge is supported only with protocol ANDROID_PHONE
+	at net.mamoe.mirai.qqandroid.QQAndroidBot.sendNudge(QQAndroidBot.common.kt:235)
+	at net.mamoe.mirai.message.action.Nudge.sendTo(Nudge.kt:58)
+	at net.mamoe.mirai.message.action.Nudge$Companion.sendNudge(Nudge.kt:76)
+	at net.mamoe.mirai.message.action.Nudge$Companion$$sendNudge$$bb$olFzFJs.invoke(Unknown Source)
+	at kotlin.coroutines.intrinsics.IntrinsicsKt__IntrinsicsJvmKt$createCoroutineUnintercepted$$inlined$createCoroutineFromSuspendFunction$IntrinsicsKt__IntrinsicsJvmKt$1.invokeSuspend(IntrinsicsJvm.kt:205)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlin.coroutines.ContinuationKt.startCoroutine(Continuation.kt:115)
+	at net.mamoe.kjbb.internal.RunBlockingKt.$runSuspend$(RunBlocking.kt:18)
+	at net.mamoe.mirai.message.action.Nudge$Companion.sendNudge(Nudge.kt)
+	at edu.sdust.moon.Response.FriendResponse.sendNudge(FriendResponse.java:147)
+	at edu.sdust.moon.Core.MiraiStart$1.FriendMessageEvent(Start.java:49)
+	... 11 more
+
+2020-10-21 18:02:57 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:03:00 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:03:00 V/Net 2163973016: Recv: net.mamoe.mirai.qqandroid.network.protocol.data.jce.RequestPushNotify@75564d5a
+2020-10-21 18:03:00 V/Net 2163973016: Send: MessageSvc.PbGetMsg
+2020-10-21 18:03:00 V/Net 2163973016: Send: MessageSvc.PbDeleteMsg
+2020-10-21 18:03:00 E/Net 2163973016: Exception in NetworkHandler
+java.lang.IllegalStateException: δ�ҵ��쳣������. ��̳� SimpleListenerHost �е� handleException ����, ���ڹ��� SimpleListenerHost ʱ�ṩ CoroutineExceptionHandler
+------------
+Cannot find exception handler from coroutineContext. 
+Please extend SimpleListenerHost.handleException or provide a CoroutineExceptionHandler to the constructor of SimpleListenerHost
+	at net.mamoe.mirai.event.SimpleListenerHost.handleException(JvmMethodListeners.kt:194)
+	at edu.sdust.moon.Core.MiraiStart$1.handleException(Start.java:69)
+	at net.mamoe.mirai.event.SimpleListenerHost$$special$$inlined$CoroutineExceptionHandler$1.handleException(CoroutineExceptionHandler.kt:111)
+	at net.mamoe.mirai.event.internal.Handler.onEvent(InternalEventListeners.kt:91)
+	at net.mamoe.mirai.event.internal.Handler$onEvent$1.invokeSuspend(InternalEventListeners.kt)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.UndispatchedCoroutine.afterResume(Builders.common.kt:214)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:113)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:55)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:571)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:738)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:678)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:665)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at net.mamoe.mirai.event.internal.EventInternalJvmKt$registerEvent$15$1.invokeSuspend(EventInternalJvm.kt:182)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:56)
+	... 4 more
+Caused by: java.lang.UnsupportedOperationException: nudge is supported only with protocol ANDROID_PHONE
+	at net.mamoe.mirai.qqandroid.QQAndroidBot.sendNudge(QQAndroidBot.common.kt:235)
+	at net.mamoe.mirai.message.action.Nudge.sendTo(Nudge.kt:58)
+	at net.mamoe.mirai.message.action.Nudge$Companion.sendNudge(Nudge.kt:76)
+	at net.mamoe.mirai.message.action.Nudge$Companion$$sendNudge$$bb$olFzFJs.invoke(Unknown Source)
+	at kotlin.coroutines.intrinsics.IntrinsicsKt__IntrinsicsJvmKt$createCoroutineUnintercepted$$inlined$createCoroutineFromSuspendFunction$IntrinsicsKt__IntrinsicsJvmKt$1.invokeSuspend(IntrinsicsJvm.kt:205)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlin.coroutines.ContinuationKt.startCoroutine(Continuation.kt:115)
+	at net.mamoe.kjbb.internal.RunBlockingKt.$runSuspend$(RunBlocking.kt:18)
+	at net.mamoe.mirai.message.action.Nudge$Companion.sendNudge(Nudge.kt)
+	at edu.sdust.moon.Response.FriendResponse.sendNudge(FriendResponse.java:147)
+	at edu.sdust.moon.Core.MiraiStart$1.FriendMessageEvent(Start.java:49)
+	... 11 more
+
+2020-10-21 18:03:02 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:03:02 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:03:06 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:03:08 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:03:36 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:03:36 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:03:38 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:03:38 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:03:47 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 18:03:47 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 18:03:52 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:04:00 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:04:02 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 18:04:02 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 18:04:07 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 18:04:07 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 18:04:19 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 18:04:19 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 18:04:24 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 18:04:24 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 18:04:36 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:04:36 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:04:38 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:04:38 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:04:44 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 18:04:44 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 18:04:58 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:05:07 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:05:18 E/Net 2163973016: Exception in NetworkHandler
+java.lang.IllegalStateException: δ�ҵ��쳣������. ��̳� SimpleListenerHost �е� handleException ����, ���ڹ��� SimpleListenerHost ʱ�ṩ CoroutineExceptionHandler
+------------
+Cannot find exception handler from coroutineContext. 
+Please extend SimpleListenerHost.handleException or provide a CoroutineExceptionHandler to the constructor of SimpleListenerHost
+	at net.mamoe.mirai.event.SimpleListenerHost.handleException(JvmMethodListeners.kt:194)
+	at edu.sdust.moon.Core.MiraiStart$1.handleException(Start.java:69)
+	at net.mamoe.mirai.event.SimpleListenerHost$$special$$inlined$CoroutineExceptionHandler$1.handleException(CoroutineExceptionHandler.kt:111)
+	at net.mamoe.mirai.event.internal.Handler.onEvent(InternalEventListeners.kt:91)
+	at net.mamoe.mirai.event.internal.Handler$onEvent$1.invokeSuspend(InternalEventListeners.kt)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.UndispatchedCoroutine.afterResume(Builders.common.kt:214)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:113)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:55)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:571)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:738)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:678)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:665)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at net.mamoe.mirai.event.internal.EventInternalJvmKt$registerEvent$15$1.invokeSuspend(EventInternalJvm.kt:182)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:56)
+	... 4 more
+Caused by: java.lang.UnsupportedOperationException: nudge is supported only with protocol ANDROID_PHONE
+	at net.mamoe.mirai.qqandroid.QQAndroidBot.sendNudge(QQAndroidBot.common.kt:235)
+	at net.mamoe.mirai.message.action.Nudge.sendTo(Nudge.kt:58)
+	at net.mamoe.mirai.message.action.Nudge$Companion.sendNudge(Nudge.kt:76)
+	at net.mamoe.mirai.message.action.Nudge$Companion$$sendNudge$$bb$olFzFJs.invoke(Unknown Source)
+	at kotlin.coroutines.intrinsics.IntrinsicsKt__IntrinsicsJvmKt$createCoroutineUnintercepted$$inlined$createCoroutineFromSuspendFunction$IntrinsicsKt__IntrinsicsJvmKt$1.invokeSuspend(IntrinsicsJvm.kt:205)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlin.coroutines.ContinuationKt.startCoroutine(Continuation.kt:115)
+	at net.mamoe.kjbb.internal.RunBlockingKt.$runSuspend$(RunBlocking.kt:18)
+	at net.mamoe.mirai.message.action.Nudge$Companion.sendNudge(Nudge.kt)
+	at edu.sdust.moon.Response.GroupResponse.sendNudge(GroupResponse.java:94)
+	at edu.sdust.moon.Core.MiraiStart$1.GroupMessageEvent(Start.java:59)
+	... 11 more
+
+2020-10-21 18:05:25 V/Net 2163973016: Send: MultiMsg.ApplyUp
+2020-10-21 18:05:25 V/Net 2163973016: Recv: MultiMsg.ApplyUp.Response.RequireUpload(proto=net.mamoe.mirai.qqandroid.network.protocol.data.proto.MultiMsg$MultiMsgApplyUpRsp@712d409b)
+2020-10-21 18:05:25 V/Net 2163973016: [Highway] Uploading group long message to 220.194.95.147:14000, size=911 B
+2020-10-21 18:05:25 V/Net 2163973016: [Highway] Uploading group long message: succeed at 3 KiB/s
+2020-10-21 18:05:25 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 18:05:25 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 18:05:26 V/Net 2163973016: Send: MultiMsg.ApplyUp
+2020-10-21 18:05:26 V/Net 2163973016: Recv: MultiMsg.ApplyUp.Response.RequireUpload(proto=net.mamoe.mirai.qqandroid.network.protocol.data.proto.MultiMsg$MultiMsgApplyUpRsp@5f2ea268)
+2020-10-21 18:05:26 V/Net 2163973016: [Highway] Uploading group long message to 220.194.111.169:14000, size=910 B
+2020-10-21 18:05:26 V/Net 2163973016: [Highway] Uploading group long message: succeed at 5 KiB/s
+2020-10-21 18:05:26 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 18:05:27 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 18:05:36 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:05:36 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:05:38 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:05:39 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:05:48 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 18:05:48 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 18:05:48 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 18:05:48 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-21 18:06:10 E/Net 2163973016: Exception in NetworkHandler
+java.lang.IllegalStateException: δ�ҵ��쳣������. ��̳� SimpleListenerHost �е� handleException ����, ���ڹ��� SimpleListenerHost ʱ�ṩ CoroutineExceptionHandler
+------------
+Cannot find exception handler from coroutineContext. 
+Please extend SimpleListenerHost.handleException or provide a CoroutineExceptionHandler to the constructor of SimpleListenerHost
+	at net.mamoe.mirai.event.SimpleListenerHost.handleException(JvmMethodListeners.kt:194)
+	at edu.sdust.moon.Core.MiraiStart$1.handleException(Start.java:66)
+	at net.mamoe.mirai.event.SimpleListenerHost$$special$$inlined$CoroutineExceptionHandler$1.handleException(CoroutineExceptionHandler.kt:111)
+	at net.mamoe.mirai.event.internal.Handler.onEvent(InternalEventListeners.kt:91)
+	at net.mamoe.mirai.event.internal.Handler$onEvent$1.invokeSuspend(InternalEventListeners.kt)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.UndispatchedCoroutine.afterResume(Builders.common.kt:214)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:113)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:55)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:571)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:738)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:678)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:665)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at net.mamoe.mirai.event.internal.EventInternalJvmKt$registerEvent$15$1.invokeSuspend(EventInternalJvm.kt:182)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:56)
+	... 4 more
+Caused by: java.lang.UnsupportedOperationException: nudge is supported only with protocol ANDROID_PHONE
+	at net.mamoe.mirai.qqandroid.QQAndroidBot.sendNudge(QQAndroidBot.common.kt:235)
+	at net.mamoe.mirai.message.action.Nudge.sendTo(Nudge.kt:58)
+	at net.mamoe.mirai.message.action.Nudge$Companion.sendNudge(Nudge.kt:76)
+	at net.mamoe.mirai.message.action.Nudge$Companion$$sendNudge$$bb$olFzFJs.invoke(Unknown Source)
+	at kotlin.coroutines.intrinsics.IntrinsicsKt__IntrinsicsJvmKt$createCoroutineUnintercepted$$inlined$createCoroutineFromSuspendFunction$IntrinsicsKt__IntrinsicsJvmKt$1.invokeSuspend(IntrinsicsJvm.kt:205)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlin.coroutines.ContinuationKt.startCoroutine(Continuation.kt:115)
+	at net.mamoe.kjbb.internal.RunBlockingKt.$runSuspend$(RunBlocking.kt:18)
+	at net.mamoe.mirai.message.action.Nudge$Companion.sendNudge(Nudge.kt)
+	at edu.sdust.moon.Response.GroupResponse.sendNudge(GroupResponse.java:94)
+	at edu.sdust.moon.Core.MiraiStart$1.GroupMessageEvent(Start.java:59)
+	... 11 more
+
+2020-10-21 18:06:34 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:06:37 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:06:37 V/Net 2163973016: Recv: net.mamoe.mirai.qqandroid.network.protocol.data.jce.RequestPushNotify@62c13ec0
+2020-10-21 18:06:37 V/Net 2163973016: Send: MessageSvc.PbGetMsg
+2020-10-21 18:06:37 V/Net 2163973016: Send: MessageSvc.PbDeleteMsg
+2020-10-21 18:06:37 E/Net 2163973016: Exception in NetworkHandler
+java.lang.IllegalStateException: δ�ҵ��쳣������. ��̳� SimpleListenerHost �е� handleException ����, ���ڹ��� SimpleListenerHost ʱ�ṩ CoroutineExceptionHandler
+------------
+Cannot find exception handler from coroutineContext. 
+Please extend SimpleListenerHost.handleException or provide a CoroutineExceptionHandler to the constructor of SimpleListenerHost
+	at net.mamoe.mirai.event.SimpleListenerHost.handleException(JvmMethodListeners.kt:194)
+	at edu.sdust.moon.Core.MiraiStart$1.handleException(Start.java:66)
+	at net.mamoe.mirai.event.SimpleListenerHost$$special$$inlined$CoroutineExceptionHandler$1.handleException(CoroutineExceptionHandler.kt:111)
+	at net.mamoe.mirai.event.internal.Handler.onEvent(InternalEventListeners.kt:91)
+	at net.mamoe.mirai.event.internal.Handler$onEvent$1.invokeSuspend(InternalEventListeners.kt)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.UndispatchedCoroutine.afterResume(Builders.common.kt:214)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:113)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:55)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:571)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:738)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:678)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:665)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at net.mamoe.mirai.event.internal.EventInternalJvmKt$registerEvent$15$1.invokeSuspend(EventInternalJvm.kt:182)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:56)
+	... 4 more
+Caused by: java.lang.UnsupportedOperationException: nudge is supported only with protocol ANDROID_PHONE
+	at net.mamoe.mirai.qqandroid.QQAndroidBot.sendNudge(QQAndroidBot.common.kt:235)
+	at net.mamoe.mirai.message.action.Nudge.sendTo(Nudge.kt:58)
+	at net.mamoe.mirai.message.action.Nudge$Companion.sendNudge(Nudge.kt:76)
+	at net.mamoe.mirai.message.action.Nudge$Companion$$sendNudge$$bb$olFzFJs.invoke(Unknown Source)
+	at kotlin.coroutines.intrinsics.IntrinsicsKt__IntrinsicsJvmKt$createCoroutineUnintercepted$$inlined$createCoroutineFromSuspendFunction$IntrinsicsKt__IntrinsicsJvmKt$1.invokeSuspend(IntrinsicsJvm.kt:205)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlin.coroutines.ContinuationKt.startCoroutine(Continuation.kt:115)
+	at net.mamoe.kjbb.internal.RunBlockingKt.$runSuspend$(RunBlocking.kt:18)
+	at net.mamoe.mirai.message.action.Nudge$Companion.sendNudge(Nudge.kt)
+	at edu.sdust.moon.Response.FriendResponse.sendNudge(FriendResponse.java:147)
+	at edu.sdust.moon.Core.MiraiStart$1.FriendMessageEvent(Start.java:49)
+	... 11 more
+
+2020-10-21 18:06:39 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:06:39 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:06:39 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:06:42 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:06:45 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:06:45 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:06:46 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:06:47 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:07:39 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:07:39 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:07:45 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:07:45 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:08:39 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:08:39 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:08:45 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:08:45 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:09:39 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:09:39 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:09:45 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:09:45 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:10:39 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:10:39 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:10:45 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:10:45 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:11:39 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:11:39 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:11:45 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:11:46 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:12:39 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-21 18:12:39 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 18:12:39 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 18:12:39 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 18:12:39 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:12:39 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:12:46 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 18:12:46 V/Net 2163973016: Recv: RequireUpload(fileId=2713238482, uKey=[91, 64, -107, -98, -77, 35, -113, 76, -7, 42, -77, 102, -85, -80, -22, 78, 20, 5, -77, 83, 117, -24, 27, -107, -12, 107, -35, -41, -40, 16, 104, 89, -127, -21, 55, -27, -63, -123, 9, 127, 65, -47, -72, 91, -71, -28, -13, 60, -37, -57, -95, -117, 39, -36, -79, 15, 50, -115, -17, 99, 118, 20, 83, -42, 47, -94, 10, 14, 113, 63, 103, 90, 83, -23, -47, -117, 110, -70, -40, -33, 93, -125, 87, 34, -106, 89, -97, -68, -103, 38, 4, -101, 101, -126, 104, 61, 24, 29, 34, 25, 47, 90, -36, 113, 71, -22, 29, 63, -111, -19, 80, 1, -41, -34, 11, 114, -66, 98, -46, 2, -31, 123, 50, 118, 18, 125, 105, 75])
+2020-10-21 18:12:46 V/Net 2163973016: [Highway] Uploading group image to 220.194.93.103:14000, size=434.88 KiB
+2020-10-21 18:12:47 V/Net 2163973016: [Highway] Uploading group image: succeed at 289 KiB/s
+2020-10-21 18:12:48 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 18:12:49 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 18:13:36 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:13:36 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:13:39 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:13:39 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:14:36 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:14:36 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:14:39 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:14:39 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:15:36 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:15:36 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:15:39 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:15:39 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:16:36 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:16:36 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:16:39 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:16:39 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:17:19 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 18:17:19 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 18:17:19 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 18:17:19 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 18:17:19 V/Net 2163973016: Recv: FileExists(fileId=2233816737, fileInfo=ImgInfo(fileMd5=[78, -10, -9, 44, 84, 70, 59, 67, -67, -77, -14, 61, -44, -104, -103, -32], fileType=1000, fileSize=445315, fileWidth=0, fileHeight=0))
+2020-10-21 18:17:19 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 18:17:20 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 18:17:20 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 18:17:20 V/Net 2163973016: Recv: FileExists(fileId=2837635717, fileInfo=ImgInfo(fileMd5=[78, -10, -9, 44, 84, 70, 59, 67, -67, -77, -14, 61, -44, -104, -103, -32], fileType=1000, fileSize=445315, fileWidth=0, fileHeight=0))
+2020-10-21 18:17:20 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 18:17:21 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 18:17:39 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:17:39 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:18:11 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 18:18:11 V/Net 2163973016: Recv: FileExists(fileId=3037959695, fileInfo=ImgInfo(fileMd5=[78, -10, -9, 44, 84, 70, 59, 67, -67, -77, -14, 61, -44, -104, -103, -32], fileType=1000, fileSize=445315, fileWidth=0, fileHeight=0))
+2020-10-21 18:18:11 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 18:18:12 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 18:18:12 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 18:18:13 V/Net 2163973016: Recv: FileExists(fileId=2471508784, fileInfo=ImgInfo(fileMd5=[78, -10, -9, 44, 84, 70, 59, 67, -67, -77, -14, 61, -44, -104, -103, -32], fileType=1000, fileSize=445315, fileWidth=0, fileHeight=0))
+2020-10-21 18:18:13 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 18:18:13 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 18:18:16 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:18:16 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:18:39 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:18:39 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:19:40 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:19:40 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:20:40 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:20:40 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:21:40 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:21:40 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:22:40 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:22:40 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:23:40 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:23:40 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:24:40 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:24:40 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:25:40 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:25:40 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:25:47 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-21 18:25:47 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 18:25:47 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 18:25:47 I/Net 2352083636: ConfigPushSvc.PushReq: Success
+2020-10-21 18:25:47 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 18:25:47 D/Net 2352083636: Received unknown commandName: MessageSvc.PushReaded
+2020-10-21 18:25:48 V/Net 2352083636: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 18:25:48 V/Net 2352083636: Send: ConfigPushSvc.PushResp
+2020-10-21 18:25:48 V/Net 2352083636: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 18:25:48 V/Net 2352083636: Send: ConfigPushSvc.PushResp
+2020-10-21 18:26:03 V/Net 2352083636: Send: ImgStore.GroupPicUp
+2020-10-21 18:26:03 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 18:26:03 V/Net 2163973016: Recv: FileExists(fileId=2786688452, fileInfo=ImgInfo(fileMd5=[78, -10, -9, 44, 84, 70, 59, 67, -67, -77, -14, 61, -44, -104, -103, -32], fileType=1000, fileSize=445315, fileWidth=0, fileHeight=0))
+2020-10-21 18:26:03 V/Net 2352083636: Recv: FileExists(fileId=3052981187, fileInfo=ImgInfo(fileMd5=[78, -10, -9, 44, 84, 70, 59, 67, -67, -77, -14, 61, -44, -104, -103, -32], fileType=1000, fileSize=445315, fileWidth=0, fileHeight=0))
+2020-10-21 18:26:03 V/Net 2352083636: Send: MessageSvc.PbSendMsg
+2020-10-21 18:26:03 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 18:26:04 V/Net 2352083636: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 18:26:04 V/Net 2352083636: Send: ImgStore.GroupPicUp
+2020-10-21 18:26:04 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 18:26:04 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 18:26:04 V/Net 2352083636: Recv: FileExists(fileId=2546054195, fileInfo=ImgInfo(fileMd5=[78, -10, -9, 44, 84, 70, 59, 67, -67, -77, -14, 61, -44, -104, -103, -32], fileType=1000, fileSize=445315, fileWidth=0, fileHeight=0))
+2020-10-21 18:26:04 V/Net 2352083636: Send: MessageSvc.PbSendMsg
+2020-10-21 18:26:04 V/Net 2352083636: Send: OnlinePush.RespPush
+2020-10-21 18:26:04 V/Net 2163973016: Recv: FileExists(fileId=2585375823, fileInfo=ImgInfo(fileMd5=[78, -10, -9, 44, 84, 70, 59, 67, -67, -77, -14, 61, -44, -104, -103, -32], fileType=1000, fileSize=445315, fileWidth=0, fileHeight=0))
+2020-10-21 18:26:04 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 18:26:04 V/Net 2352083636: Send: OnlinePush.RespPush
+2020-10-21 18:26:04 V/Net 2352083636: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 18:26:05 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 18:26:12 D/Net 2352083636: Received unknown commandName: MessageSvc.PushReaded
+2020-10-21 18:26:13 V/Net 2352083636: Send: OnlinePush.RespPush
+2020-10-21 18:26:13 V/Net 2352083636: Send: OnlinePush.RespPush
+2020-10-21 18:26:21 D/Net 2352083636: Received unknown commandName: MessageSvc.PushReaded
+2020-10-21 18:26:40 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:26:40 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:26:47 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-21 18:26:47 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 18:26:47 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 18:26:47 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 18:26:54 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:26:55 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:26:55 V/Net 2163973016: Recv: net.mamoe.mirai.qqandroid.network.protocol.data.jce.RequestPushNotify@2994d566
+2020-10-21 18:26:55 V/Net 2163973016: Send: MessageSvc.PbGetMsg
+2020-10-21 18:26:55 V/Net 2163973016: Send: MessageSvc.PbDeleteMsg
+2020-10-21 18:26:55 V/Net 2163973016: Send: OidbSvc.0xed3
+2020-10-21 18:26:55 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:26:55 V/Net 2163973016: Recv: NudgeResponse(success=true,code=0)
+2020-10-21 18:27:02 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:27:03 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:27:04 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 18:27:40 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:27:40 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 18:28:40 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 18:28:40 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:02:37 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 19:02:37 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 19:02:37 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 19:02:38 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-21 19:02:38 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 19:02:38 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 19:03:08 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 19:03:11 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 19:03:11 V/Net 2163973016: Recv: FileExists(fileId=3018138049, fileInfo=ImgInfo(fileMd5=[78, -10, -9, 44, 84, 70, 59, 67, -67, -77, -14, 61, -44, -104, -103, -32], fileType=1000, fileSize=445315, fileWidth=0, fileHeight=0))
+2020-10-21 19:03:11 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 19:03:12 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 19:03:12 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 19:03:12 V/Net 2163973016: Recv: FileExists(fileId=2836548253, fileInfo=ImgInfo(fileMd5=[78, -10, -9, 44, 84, 70, 59, 67, -67, -77, -14, 61, -44, -104, -103, -32], fileType=1000, fileSize=445315, fileWidth=0, fileHeight=0))
+2020-10-21 19:03:12 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 19:03:13 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 19:03:13 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 19:03:13 V/Net 2163973016: Recv: FileExists(fileId=2931601685, fileInfo=ImgInfo(fileMd5=[78, -10, -9, 44, 84, 70, 59, 67, -67, -77, -14, 61, -44, -104, -103, -32], fileType=1000, fileSize=445315, fileWidth=0, fileHeight=0))
+2020-10-21 19:03:13 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 19:03:14 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 19:03:17 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 19:03:34 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:03:35 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:04:35 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:04:36 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:05:36 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:05:36 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:07:49 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-21 19:07:49 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 19:07:49 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 19:07:49 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 19:07:50 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 19:07:51 V/Net 2163973016: Recv: FileExists(fileId=2832133100, fileInfo=ImgInfo(fileMd5=[78, -10, -9, 44, 84, 70, 59, 67, -67, -77, -14, 61, -44, -104, -103, -32], fileType=1000, fileSize=445315, fileWidth=0, fileHeight=0))
+2020-10-21 19:07:51 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 19:07:51 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 19:07:52 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 19:07:53 V/Net 2163973016: Recv: RequireUpload(fileId=2974527579, uKey=[-42, 127, 91, 17, 86, 36, 127, 105, 15, 10, 88, 38, -18, 12, 46, 27, -70, 117, 36, 95, 66, -122, 91, -16, -123, 67, 38, -26, -18, 61, -94, -99, 96, -78, 17, 6, 63, -98, 116, -126, 12, 101, -69, -2, -92, -15, -127, 50, -75, 36, 122, -81, -11, -62, -81, -74, 122, -118, 70, 8, -27, 17, -5, -36, -56, -90, -60, -115, -15, 110, 31, -78, 56, 43, 50, -27, 126, -97, 42, 58, 127, 111, 38, 104, 45, 122, -46, 65, 31, 43, -28, 83, 88, 69, 76, -118, 18, 40, -42, 87, 5, 47, 77, -79, -23, -120, -63, 46, 79, -15, -82, -118, -37, 13, -69, 113, -43, -29, -97, 92, 62, 66, -55, 71, -63, -4, 40, -78])
+2020-10-21 19:07:53 V/Net 2163973016: [Highway] Uploading group image to 220.194.95.147:14000, size=302.82 KiB
+2020-10-21 19:07:55 V/Net 2163973016: [Highway] Uploading group image: succeed at 0 KiB/s
+2020-10-21 19:07:55 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 19:07:56 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 19:08:05 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 19:08:05 V/Net 2163973016: Recv: FileExists(fileId=2548264154, fileInfo=ImgInfo(fileMd5=[78, -10, -9, 44, 84, 70, 59, 67, -67, -77, -14, 61, -44, -104, -103, -32], fileType=1000, fileSize=445315, fileWidth=0, fileHeight=0))
+2020-10-21 19:08:05 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 19:08:07 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 19:08:07 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 19:08:08 V/Net 2163973016: Recv: FileExists(fileId=2691344846, fileInfo=ImgInfo(fileMd5=[26, -91, 16, -118, 56, -5, -44, 7, -32, -105, 17, -77, -13, 54, 92, -77], fileType=1000, fileSize=310091, fileWidth=0, fileHeight=0))
+2020-10-21 19:08:08 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 19:08:09 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 19:09:19 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-21 19:09:19 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 19:09:19 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 19:09:19 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 19:09:22 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 19:09:23 V/Net 2163973016: Recv: FileExists(fileId=2732427042, fileInfo=ImgInfo(fileMd5=[78, -10, -9, 44, 84, 70, 59, 67, -67, -77, -14, 61, -44, -104, -103, -32], fileType=1000, fileSize=445315, fileWidth=0, fileHeight=0))
+2020-10-21 19:09:23 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 19:09:24 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 19:09:26 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 19:09:27 V/Net 2163973016: Recv: FileExists(fileId=2980289714, fileInfo=ImgInfo(fileMd5=[26, -91, 16, -118, 56, -5, -44, 7, -32, -105, 17, -77, -13, 54, 92, -77], fileType=1000, fileSize=310091, fileWidth=0, fileHeight=0))
+2020-10-21 19:09:27 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 19:09:28 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 19:09:35 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 19:09:36 V/Net 2163973016: Recv: FileExists(fileId=2567001331, fileInfo=ImgInfo(fileMd5=[78, -10, -9, 44, 84, 70, 59, 67, -67, -77, -14, 61, -44, -104, -103, -32], fileType=1000, fileSize=445315, fileWidth=0, fileHeight=0))
+2020-10-21 19:09:36 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 19:09:37 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 19:09:41 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 19:09:41 V/Net 2163973016: Recv: FileExists(fileId=2602313739, fileInfo=ImgInfo(fileMd5=[26, -91, 16, -118, 56, -5, -44, 7, -32, -105, 17, -77, -13, 54, 92, -77], fileType=1000, fileSize=310091, fileWidth=0, fileHeight=0))
+2020-10-21 19:09:41 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 19:09:42 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 19:10:16 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:10:16 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:11:16 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:11:16 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:12:16 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:12:16 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:13:16 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:13:16 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:14:16 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:14:16 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:15:16 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:15:17 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:16:17 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:16:17 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:17:17 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:17:17 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:18:17 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:18:17 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:19:17 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:19:17 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:20:17 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:20:18 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:21:18 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:21:18 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:22:18 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:22:18 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:23:18 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:23:18 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:24:18 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:24:18 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:25:18 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:25:18 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:26:01 I/Net 2163973016: Connected to server 42.81.172.81:80
+2020-10-21 19:26:01 V/Net 2163973016: Send: wtlogin.login
+2020-10-21 19:26:01 V/Net 2163973016: Recv: LoginPacketResponse.Success
+2020-10-21 19:26:01 I/Net 2163973016: Login successful
+2020-10-21 19:26:01 V/Net 2163973016: Send: StatSvc.register
+2020-10-21 19:26:01 V/Net 2163973016: Recv: Response(StatSvc.register)
+2020-10-21 19:26:01 I/Net 2163973016: Syncing friend message history...
+2020-10-21 19:26:01 V/Net 2163973016: Send: MessageSvc.PbGetMsg
+2020-10-21 19:26:01 V/Net 2163973016: Send: MessageSvc.PbDeleteMsg
+2020-10-21 19:26:01 I/Net 2163973016: Syncing friend message history: Success
+2020-10-21 19:26:04 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-21 19:26:04 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 19:26:04 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 19:27:01 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:27:01 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:28:01 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:28:01 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:29:01 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:29:01 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:30:02 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:30:02 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:31:02 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:31:02 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:32:02 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:32:02 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:33:02 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:33:02 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:34:02 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:34:02 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:35:02 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:35:03 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:36:03 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:36:03 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:37:03 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:37:03 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:38:03 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:38:03 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:39:03 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:39:03 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:40:03 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:40:03 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:41:03 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:41:03 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:42:03 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:42:03 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:42:46 I/Net 2163973016: Connected to server 114.221.148.59:14000
+2020-10-21 19:42:46 V/Net 2163973016: Send: wtlogin.login
+2020-10-21 19:42:46 V/Net 2163973016: Recv: LoginPacketResponse.Success
+2020-10-21 19:42:46 I/Net 2163973016: Login successful
+2020-10-21 19:42:46 V/Net 2163973016: Send: StatSvc.register
+2020-10-21 19:42:46 V/Net 2163973016: Recv: Response(StatSvc.register)
+2020-10-21 19:42:46 I/Net 2163973016: Syncing friend message history...
+2020-10-21 19:42:46 V/Net 2163973016: Send: MessageSvc.PbGetMsg
+2020-10-21 19:42:47 V/Net 2163973016: Send: MessageSvc.PbDeleteMsg
+2020-10-21 19:42:47 I/Net 2163973016: Syncing friend message history: Success
+2020-10-21 19:42:49 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 19:42:49 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 19:42:50 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-21 19:42:50 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 19:42:50 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 19:43:47 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:43:47 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:44:47 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:44:47 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:45:47 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:45:47 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:46:47 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:46:47 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:47:47 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:47:47 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:48:47 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:48:47 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:49:48 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:49:48 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:50:48 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:50:48 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:51:48 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:51:48 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:52:48 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:52:48 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:53:48 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:53:48 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:54:48 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:54:48 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:55:48 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:55:48 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:56:48 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:56:48 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:57:48 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:57:48 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:58:48 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 19:58:49 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 19:59:32 I/Net 2163973016: Connected to server 42.81.172.147:443
+2020-10-21 19:59:32 V/Net 2163973016: Send: wtlogin.login
+2020-10-21 19:59:32 V/Net 2163973016: Recv: LoginPacketResponse.Success
+2020-10-21 19:59:32 I/Net 2163973016: Login successful
+2020-10-21 19:59:32 V/Net 2163973016: Send: StatSvc.register
+2020-10-21 19:59:32 V/Net 2163973016: Recv: Response(StatSvc.register)
+2020-10-21 19:59:32 I/Net 2163973016: Syncing friend message history...
+2020-10-21 19:59:32 V/Net 2163973016: Send: MessageSvc.PbGetMsg
+2020-10-21 19:59:33 V/Net 2163973016: Send: MessageSvc.PbDeleteMsg
+2020-10-21 19:59:33 I/Net 2163973016: Syncing friend message history: Success
+2020-10-21 19:59:35 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 19:59:35 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 19:59:36 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-21 19:59:36 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 19:59:36 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 20:00:32 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:00:32 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:01:32 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:01:33 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:02:33 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:02:33 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:03:33 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:03:33 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:04:33 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:04:33 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:05:33 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:05:33 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:06:33 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:06:33 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:07:33 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:07:33 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:08:33 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:08:33 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:10:23 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:10:23 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:11:23 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:11:24 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:12:24 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:12:24 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:13:24 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:13:24 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:14:24 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:14:24 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:15:24 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:15:24 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:16:18 I/Net 2163973016: Connected to server 125.94.60.146:80
+2020-10-21 20:16:18 V/Net 2163973016: Send: wtlogin.login
+2020-10-21 20:16:18 V/Net 2163973016: Recv: LoginPacketResponse.Success
+2020-10-21 20:16:18 I/Net 2163973016: Login successful
+2020-10-21 20:16:18 V/Net 2163973016: Send: StatSvc.register
+2020-10-21 20:16:18 V/Net 2163973016: Recv: Response(StatSvc.register)
+2020-10-21 20:16:18 I/Net 2163973016: Syncing friend message history...
+2020-10-21 20:16:18 V/Net 2163973016: Send: MessageSvc.PbGetMsg
+2020-10-21 20:16:18 V/Net 2163973016: Send: MessageSvc.PbDeleteMsg
+2020-10-21 20:16:18 I/Net 2163973016: Syncing friend message history: Success
+2020-10-21 20:16:21 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-21 20:16:21 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 20:16:21 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 20:16:21 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 20:16:21 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 20:17:18 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:17:18 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:18:18 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:18:18 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:19:18 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:19:19 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:20:19 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:20:19 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:21:55 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:21:55 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:22:55 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:22:55 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:23:55 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:23:55 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:24:55 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:24:57 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:25:57 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:25:57 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:26:57 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:26:57 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:27:57 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:27:58 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:28:58 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:28:58 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:29:58 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:29:58 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:30:58 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:30:58 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:31:58 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:31:58 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:32:58 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:32:58 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:33:04 I/Net 2163973016: Connected to server 114.221.144.215:80
+2020-10-21 20:33:04 V/Net 2163973016: Send: wtlogin.login
+2020-10-21 20:33:04 V/Net 2163973016: Recv: LoginPacketResponse.Success
+2020-10-21 20:33:04 I/Net 2163973016: Login successful
+2020-10-21 20:33:04 V/Net 2163973016: Send: StatSvc.register
+2020-10-21 20:33:05 V/Net 2163973016: Recv: Response(StatSvc.register)
+2020-10-21 20:33:05 I/Net 2163973016: Syncing friend message history...
+2020-10-21 20:33:05 V/Net 2163973016: Send: MessageSvc.PbGetMsg
+2020-10-21 20:33:05 V/Net 2163973016: Send: MessageSvc.PbDeleteMsg
+2020-10-21 20:33:05 I/Net 2163973016: Syncing friend message history: Success
+2020-10-21 20:33:07 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 20:33:07 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 20:33:07 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-21 20:33:07 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 20:33:07 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 20:34:05 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:34:05 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:35:05 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:35:05 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:36:05 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:36:05 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:37:05 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:37:05 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:38:05 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:38:05 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:39:05 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:39:05 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:40:05 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:40:05 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:41:05 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:41:05 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:42:05 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:42:05 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:43:05 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:43:06 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:44:06 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:44:06 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:45:06 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:45:06 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:46:06 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:46:06 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:47:06 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:47:06 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:48:06 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:48:06 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 20:49:06 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 20:49:06 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 21:10:27 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 21:10:32 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 21:10:37 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 21:10:42 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 21:10:46 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:10:49 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:10:52 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:10:55 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:10:58 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:11:01 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:11:04 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:11:07 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:11:10 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:11:13 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:11:16 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:11:19 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:11:22 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:11:25 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:11:29 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:11:32 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:11:35 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:11:38 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:11:41 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:11:44 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:11:47 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:11:50 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:11:53 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:11:56 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:11:59 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:12:02 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:12:05 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:12:08 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:12:11 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:12:14 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:12:17 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:12:20 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:12:23 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:12:26 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:12:29 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:12:32 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:12:35 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:12:38 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:12:41 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:12:44 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:12:47 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:12:50 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:12:53 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:12:56 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:12:59 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:13:02 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:13:05 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:13:08 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:13:11 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:13:14 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:13:17 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:13:20 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:13:23 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:13:26 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:13:29 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:13:32 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:13:35 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:13:38 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:13:41 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:13:44 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:13:47 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:13:50 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:13:53 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:13:56 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:13:59 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:14:02 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:14:05 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:14:08 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:14:11 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:14:14 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:14:17 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:14:20 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:14:23 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:14:26 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:14:29 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:14:32 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:14:35 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:14:38 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:14:41 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:14:44 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:14:47 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:14:50 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:14:53 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:14:56 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:14:59 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:15:02 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:15:05 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:15:08 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:15:11 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:15:14 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:15:17 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:15:20 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:15:23 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:15:26 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:15:29 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:15:32 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:15:35 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:15:38 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:15:41 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:15:44 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:15:47 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:15:50 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:15:53 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:15:56 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:15:59 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:16:02 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:16:05 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:16:08 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:16:11 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:16:14 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:16:17 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:16:20 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:16:23 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:16:26 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:16:29 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:16:32 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:16:35 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:16:38 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:16:42 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:16:45 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:16:48 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:16:51 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:16:54 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:16:57 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:17:00 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:17:03 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:17:06 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:17:09 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:17:12 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:17:15 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:17:18 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:17:21 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:17:24 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:17:27 W/Net 2163973016: No route to host (Mostly due to no Internet connection). Retrying in 3s...
+2020-10-21 21:17:30 I/Net 2163973016: Connected to server 42.81.172.22:80
+2020-10-21 21:17:30 V/Net 2163973016: Send: wtlogin.login
+2020-10-21 21:17:30 V/Net 2163973016: Recv: LoginPacketResponse.Success
+2020-10-21 21:17:30 I/Net 2163973016: Login successful
+2020-10-21 21:17:30 V/Net 2163973016: Send: StatSvc.register
+2020-10-21 21:17:30 V/Net 2163973016: Recv: Response(StatSvc.register)
+2020-10-21 21:17:30 I/Net 2163973016: Syncing friend message history...
+2020-10-21 21:17:30 V/Net 2163973016: Send: MessageSvc.PbGetMsg
+2020-10-21 21:17:30 V/Net 2163973016: Send: MessageSvc.PbDeleteMsg
+2020-10-21 21:17:30 I/Net 2163973016: Syncing friend message history: Success
+2020-10-21 21:17:33 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 21:17:33 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 21:17:33 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-21 21:17:33 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 21:17:33 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 21:18:30 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 21:18:30 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 21:19:30 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 21:19:30 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 21:20:30 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 21:20:30 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 21:21:30 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 21:21:31 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 21:22:31 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 21:22:31 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 21:23:31 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 21:23:31 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 21:24:31 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 21:24:31 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 21:25:31 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 21:25:31 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 21:26:31 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 21:26:31 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 21:27:31 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 21:27:31 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 21:28:31 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 21:28:31 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 21:29:31 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 21:29:31 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 21:30:31 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 21:30:31 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 21:31:31 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 21:31:32 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 21:32:32 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 21:32:32 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 21:33:32 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 21:33:32 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 21:34:16 I/Net 2163973016: Connected to server msfwifi.3g.qq.com:8080
+2020-10-21 21:34:16 V/Net 2163973016: Send: wtlogin.login
+2020-10-21 21:34:16 V/Net 2163973016: Recv: LoginPacketResponse.Success
+2020-10-21 21:34:16 I/Net 2163973016: Login successful
+2020-10-21 21:34:16 V/Net 2163973016: Send: StatSvc.register
+2020-10-21 21:34:16 V/Net 2163973016: Recv: Response(StatSvc.register)
+2020-10-21 21:34:16 I/Net 2163973016: Syncing friend message history...
+2020-10-21 21:34:16 V/Net 2163973016: Send: MessageSvc.PbGetMsg
+2020-10-21 21:34:16 V/Net 2163973016: Send: MessageSvc.PbDeleteMsg
+2020-10-21 21:34:16 I/Net 2163973016: Syncing friend message history: Success
+2020-10-21 21:34:19 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 21:34:19 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 21:34:19 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-21 21:34:19 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 21:34:19 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 21:34:25 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-21 21:34:25 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 21:34:25 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 21:34:25 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 21:34:29 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 21:34:29 V/Net 2163973016: Recv: FileExists(fileId=3159893026, fileInfo=ImgInfo(fileMd5=[78, -10, -9, 44, 84, 70, 59, 67, -67, -77, -14, 61, -44, -104, -103, -32], fileType=1000, fileSize=445315, fileWidth=0, fileHeight=0))
+2020-10-21 21:34:29 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 21:34:30 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 21:34:31 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 21:34:31 V/Net 2163973016: Recv: FileExists(fileId=2862456537, fileInfo=ImgInfo(fileMd5=[26, -91, 16, -118, 56, -5, -44, 7, -32, -105, 17, -77, -13, 54, 92, -77], fileType=1000, fileSize=310091, fileWidth=0, fileHeight=0))
+2020-10-21 21:34:31 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 21:34:32 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 21:50:47 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-21 21:50:47 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-21 21:50:47 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-21 21:50:47 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-21 21:50:50 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 21:50:51 V/Net 2163973016: Recv: FileExists(fileId=2680991069, fileInfo=ImgInfo(fileMd5=[78, -10, -9, 44, 84, 70, 59, 67, -67, -77, -14, 61, -44, -104, -103, -32], fileType=1000, fileSize=445315, fileWidth=0, fileHeight=0))
+2020-10-21 21:50:51 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 21:50:51 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 21:50:51 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 21:50:51 V/Net 2163973016: Recv: FileExists(fileId=3198460474, fileInfo=ImgInfo(fileMd5=[78, -10, -9, 44, 84, 70, 59, 67, -67, -77, -14, 61, -44, -104, -103, -32], fileType=1000, fileSize=445315, fileWidth=0, fileHeight=0))
+2020-10-21 21:50:51 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 21:50:52 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 21:50:53 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 21:50:53 V/Net 2163973016: Recv: FileExists(fileId=2342612078, fileInfo=ImgInfo(fileMd5=[26, -91, 16, -118, 56, -5, -44, 7, -32, -105, 17, -77, -13, 54, 92, -77], fileType=1000, fileSize=310091, fileWidth=0, fileHeight=0))
+2020-10-21 21:50:53 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 21:50:54 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 22:38:38 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 22:38:39 V/Net 2163973016: Recv: FileExists(fileId=2625514029, fileInfo=ImgInfo(fileMd5=[78, -10, -9, 44, 84, 70, 59, 67, -67, -77, -14, 61, -44, -104, -103, -32], fileType=1000, fileSize=445315, fileWidth=0, fileHeight=0))
+2020-10-21 22:38:39 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 22:38:40 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 22:38:47 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 22:38:48 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 22:38:48 V/Net 2163973016: Recv: FileExists(fileId=2199106668, fileInfo=ImgInfo(fileMd5=[26, -91, 16, -118, 56, -5, -44, 7, -32, -105, 17, -77, -13, 54, 92, -77], fileType=1000, fileSize=310091, fileWidth=0, fileHeight=0))
+2020-10-21 22:38:48 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 22:38:49 V/Net 2163973016: Recv: FileExists(fileId=2625856243, fileInfo=ImgInfo(fileMd5=[78, -10, -9, 44, 84, 70, 59, 67, -67, -77, -14, 61, -44, -104, -103, -32], fileType=1000, fileSize=445315, fileWidth=0, fileHeight=0))
+2020-10-21 22:38:49 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 22:38:49 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 22:38:50 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 22:38:57 V/Net 2163973016: Send: ImgStore.GroupPicUp
+2020-10-21 22:38:57 V/Net 2163973016: Recv: FileExists(fileId=2510785559, fileInfo=ImgInfo(fileMd5=[26, -91, 16, -118, 56, -5, -44, 7, -32, -105, 17, -77, -13, 54, 92, -77], fileType=1000, fileSize=310091, fileWidth=0, fileHeight=0))
+2020-10-21 22:38:57 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-21 22:38:58 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-21 22:39:28 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-21 22:39:29 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-21 22:39:55 V/Net 2163973016: Recv: net.mamoe.mirai.qqandroid.network.protocol.data.jce.RequestPushNotify@427f9fd6
+2020-10-21 22:39:55 V/Net 2163973016: Send: MessageSvc.PbGetMsg
+2020-10-21 22:39:55 V/Net 2163973016: Recv: net.mamoe.mirai.qqandroid.network.protocol.data.jce.RequestPushNotify@1c97fb28
+2020-10-21 22:39:55 V/Net 2163973016: Send: MessageSvc.PbGetMsg
+2020-10-21 22:39:55 V/Net 2163973016: Send: MessageSvc.PbDeleteMsg
+2020-10-21 22:39:55 V/Net 2163973016: Send: ProfileService.Pb.ReqSystemMsgNew.Group
+2020-10-21 22:39:55 V/Net 2163973016: Send: OidbSvc.0xed3
+2020-10-21 22:39:55 V/Net 2163973016: Send: MessageSvc.PbDeleteMsg
+2020-10-21 22:39:56 V/Net 2163973016: Recv: NudgeResponse(success=true,code=0)
+2020-10-21 22:39:56 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-21 22:40:05 V/Net 2163973016: Send: OnlinePush.RespPush

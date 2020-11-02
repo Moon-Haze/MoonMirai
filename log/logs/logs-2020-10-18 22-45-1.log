@@ -1,0 +1,29 @@
+[22:45:24.526][INFO]Starting...
+[22:45:24.607][INFO]QQ's id: 2163973016
+[22:45:24.607][INFO]Initialization complete.
+[22:45:27.308][ERROR]Robot error net.mamoe.mirai.network.WrongPasswordException: Error(title=��ֹ��¼, message=Ϊ�������ʺŰ�ȫ����ʹ��QQһ����¼��ͨ���ֻ�QQ��Ȩ��¼����, errorInfo=)
+	at net.mamoe.mirai.qqandroid.network.QQAndroidBotNetworkHandler.closeEverythingAndRelogin(QQAndroidBotNetworkHandler.kt:186) ~[mirai-core-qqandroid-1.3.1.jar:?]
+	at net.mamoe.mirai.qqandroid.network.QQAndroidBotNetworkHandler$closeEverythingAndRelogin$1.invokeSuspend(QQAndroidBotNetworkHandler.kt) ~[mirai-core-qqandroid-1.3.1.jar:?]
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33) ~[kotlin-stdlib-1.4.10.jar:1.4.10-release-411 (1.4.10)]
+	at kotlinx.coroutines.internal.ScopeCoroutine.afterResume(Scopes.kt:32) ~[kotlinx-coroutines-core-jvm-1.3.9.jar:?]
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:113) ~[kotlinx-coroutines-core-jvm-1.3.9.jar:?]
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46) ~[kotlin-stdlib-1.4.10.jar:1.4.10-release-411 (1.4.10)]
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:56) ~[kotlinx-coroutines-core-jvm-1.3.9.jar:?]
+	at kotlinx.coroutines.EventLoopImplBase.processNextEvent(EventLoop.common.kt:274) ~[kotlinx-coroutines-core-jvm-1.3.9.jar:?]
+	at kotlinx.coroutines.BlockingCoroutine.joinBlocking(Builders.kt:84) ~[kotlinx-coroutines-core-jvm-1.3.9.jar:?]
+	at kotlinx.coroutines.BuildersKt__BuildersKt.runBlocking(Builders.kt:59) ~[kotlinx-coroutines-core-jvm-1.3.9.jar:?]
+	at kotlinx.coroutines.BuildersKt.runBlocking(Unknown Source) ~[kotlinx-coroutines-core-jvm-1.3.9.jar:?]
+	at kotlinx.coroutines.BuildersKt__BuildersKt.runBlocking$default(Builders.kt:38) ~[kotlinx-coroutines-core-jvm-1.3.9.jar:?]
+	at kotlinx.coroutines.BuildersKt.runBlocking$default(Unknown Source) ~[kotlinx-coroutines-core-jvm-1.3.9.jar:?]
+	at net.mamoe.mirai.BotJavaFriendlyAPI$DefaultImpls.login(BotJavaFriendlyAPI.kt:209) ~[mirai-core-jvm-1.3.1.jar:?]
+	at net.mamoe.mirai.Bot.login(Bot.kt:53) ~[mirai-core-jvm-1.3.1.jar:?]
+	at edu.sdust.moon.Core.BotStart.Start(BotStart.java:34) [main/:?]
+	at edu.sdust.moon.Core.MiraiStart.main(Start.java:40) [main/:?]
+
+[22:45:27.330][ERROR]Failed to start the robot
+[22:45:50.661][INFO]Starting...
+[22:45:50.730][INFO]QQ's id: 2163973016
+[22:45:50.730][INFO]Initialization complete.
+[22:45:53.521][INFO]QQ:2163973016Is logged in
+[22:45:53.523][ERROR]No QQPlugin
+[22:45:53.523][INFO]The robot has started.

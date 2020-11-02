@@ -1,0 +1,208 @@
+2020-10-26 19:16:01 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-26 19:16:01 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-26 19:16:01 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-26 19:16:01 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-26 19:16:01 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-26 19:16:01 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-26 19:16:18 V/Net 2163973016: Send: PttStore.GroupPttUp
+2020-10-26 19:16:18 V/Net 2163973016: Recv: RequireUpload(fileId=1588738057, uKey=[48, -127, -110, 2, 1, 1, 4, -127, -118, 48, -127, -121, 2, 1, 1, 2, 1, 1, 2, 4, -128, -5, -101, -104, 2, 2, 0, -1, 2, 4, 39, 65, -32, 112, 4, 16, 106, 107, -88, -51, -26, -125, -56, 6, 78, -43, -93, -110, 81, 29, -89, -20, 2, 1, 2, 2, 3, 0, -19, 96, 4, 16, 106, 107, -88, -51, -26, -125, -56, 6, 78, -43, -93, -110, 81, 29, -89, -20, 2, 4, 95, -106, -80, 1, 4, 36, 103, 48, 122, 51, 77, 117, 70, 70, 118, 51, 85, 35, 114, 121, 70, 113, 72, 120, 113, 80, 67, 102, 56, 79, 54, 85, 107, 82, 122, 97, 112, 107, 116, 115, 97, 88, 2, 3, 122, 26, -2, 2, 4, -80, -105, -90, -33, 2, 4, 113, 87, -89, -33, 2, 4, -20, -89, 29, 81, 4, 0, 4, 0])
+2020-10-26 19:16:18 V/Net 2163973016: [Highway] Uploading ptt to 223.166.151.176:80, size=59.34 KiB
+2020-10-26 19:16:18 V/Net 2163973016: [Highway] Uploading ptt: succeed at 129 KiB/s
+2020-10-26 19:16:18 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-26 19:16:19 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-26 19:16:20 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-26 19:16:28 V/Net 2163973016: Send: OnlinePush.RespPush
+2020-10-26 19:16:50 V/Net 2163973016: Send: PttStore.GroupPttUp
+2020-10-26 19:16:50 V/Net 2163973016: Recv: RequireUpload(fileId=2051042144, uKey=[48, -127, -110, 2, 1, 1, 4, -127, -118, 48, -127, -121, 2, 1, 1, 2, 1, 1, 2, 4, -128, -5, -101, -104, 2, 2, 0, -1, 2, 4, 39, 65, -32, 112, 4, 16, -69, -17, 69, -28, -78, 90, -72, -76, -112, 49, -84, 58, -30, -1, -70, -127, 2, 1, 2, 2, 3, 1, 77, -112, 4, 16, -69, -17, 69, -28, -78, 90, -72, -76, -112, 49, -84, 58, -30, -1, -70, -127, 2, 4, 95, -106, -80, 33, 4, 36, 103, 48, 122, 51, 117, 117, 70, 70, 118, 51, 85, 35, 114, 121, 86, 75, 76, 110, 52, 86, 79, 71, 53, 75, 81, 50, 112, 99, 73, 71, 122, 85, 95, 72, 114, 119, 2, 3, 122, 26, -2, 2, 4, -98, -105, -90, -33, 2, 4, -108, -105, -90, -33, 2, 4, -127, -70, -1, -30, 4, 0, 4, 0])
+2020-10-26 19:16:50 V/Net 2163973016: [Highway] Uploading ptt to 223.166.151.158:80, size=83.39 KiB
+2020-10-26 19:16:50 V/Net 2163973016: [Highway] Uploading ptt: succeed at 291 KiB/s
+2020-10-26 19:16:50 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-26 19:16:50 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-26 19:16:58 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 19:16:58 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 19:17:33 V/Net 2163973016: Send: PttStore.GroupPttUp
+2020-10-26 19:17:33 V/Net 2163973016: Recv: RequireUpload(fileId=1418278071, uKey=[48, -127, -111, 2, 1, 1, 4, -127, -119, 48, -127, -122, 2, 1, 1, 2, 1, 1, 2, 4, -128, -5, -101, -104, 2, 2, 0, -1, 2, 4, 39, 65, -32, 112, 4, 16, -99, -92, -58, -61, 44, 117, -117, -93, 90, -68, 2, -74, -118, 44, -41, 45, 2, 1, 2, 2, 2, 33, 48, 4, 16, -99, -92, -58, -61, 44, 117, -117, -93, 90, -68, 2, -74, -118, 44, -41, 45, 2, 4, 95, -106, -80, 77, 4, 36, 103, 48, 122, 51, 85, 116, 82, 70, 118, 51, 85, 35, 114, 121, 112, 68, 65, 113, 89, 77, 73, 107, 84, 121, 122, 71, 53, 76, 50, 111, 72, 121, 73, 115, 116, 98, 2, 3, 122, 26, -2, 2, 4, 120, 87, -89, -33, 2, 4, 114, 87, -89, -33, 2, 4, 45, -41, 44, -118, 4, 0, 4, 0])
+2020-10-26 19:17:33 V/Net 2163973016: [Highway] Uploading ptt to 223.167.87.120:80, size=8.3 KiB
+2020-10-26 19:17:33 V/Net 2163973016: [Highway] Uploading ptt: succeed at 66 KiB/s
+2020-10-26 19:17:33 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-26 19:17:33 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-26 19:18:16 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-26 19:18:16 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-26 19:18:16 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-26 19:18:16 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-26 19:18:20 V/Net 2163973016: Send: PttStore.GroupPttUp
+2020-10-26 19:18:20 V/Net 2163973016: Recv: RequireUpload(fileId=2083297721, uKey=[48, -127, -111, 2, 1, 1, 4, -127, -119, 48, -127, -122, 2, 1, 1, 2, 1, 1, 2, 4, -128, -5, -101, -104, 2, 2, 0, -1, 2, 4, 39, 65, -32, 112, 4, 16, -70, -34, 103, -124, -97, 30, 40, -122, 72, -22, 35, -6, -73, -7, -78, 110, 2, 1, 2, 2, 2, 26, 112, 4, 16, -70, -34, 103, -124, -97, 30, 40, -122, 72, -22, 35, -6, -73, -7, -78, 110, 2, 4, 95, -106, -80, 124, 4, 36, 103, 48, 122, 51, 84, 116, 82, 70, 118, 51, 85, 35, 114, 121, 70, 75, 117, 118, 54, 120, 118, 87, 49, 97, 54, 121, 65, 87, 122, 69, 95, 74, 86, 98, 72, 114, 2, 3, 122, 26, -2, 2, 4, 119, 87, -89, -33, 2, 4, -55, -105, -90, -33, 2, 4, 110, -78, -7, -73, 4, 0, 4, 0])
+2020-10-26 19:18:20 V/Net 2163973016: [Highway] Uploading ptt to 223.167.87.119:80, size=6.61 KiB
+2020-10-26 19:18:21 V/Net 2163973016: [Highway] Uploading ptt: succeed at 23 KiB/s
+2020-10-26 19:18:21 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-26 19:18:21 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-26 19:18:56 V/Net 2163973016: Send: PttStore.GroupPttUp
+2020-10-26 19:18:56 V/Net 2163973016: Recv: RequireUpload(fileId=1094099604, uKey=[48, -127, -111, 2, 1, 1, 4, -127, -119, 48, -127, -122, 2, 1, 1, 2, 1, 1, 2, 4, -128, -5, -101, -104, 2, 2, 0, -1, 2, 4, 39, 65, -32, 112, 4, 16, 10, -102, -45, 11, 36, -115, 124, -120, -101, -104, 35, -67, 9, -33, -40, 110, 2, 1, 2, 2, 2, 26, 112, 4, 16, 10, -102, -45, 11, 36, -115, 124, -120, -101, -104, 35, -67, 9, -33, -40, 110, 2, 4, 95, -106, -80, -96, 4, 36, 103, 48, 122, 51, 107, 117, 70, 70, 118, 51, 85, 35, 114, 121, 70, 50, 113, 101, 90, 50, 65, 81, 56, 118, 56, 75, 57, 67, 122, 81, 114, 50, 118, 122, 74, 114, 2, 3, 122, 26, -2, 2, 4, -108, -105, -90, -33, 2, 4, -89, -105, -90, -33, 2, 4, 110, -40, -33, 9, 4, 0, 4, 0])
+2020-10-26 19:18:56 V/Net 2163973016: [Highway] Uploading ptt to 223.166.151.148:80, size=6.61 KiB
+2020-10-26 19:18:56 V/Net 2163973016: [Highway] Uploading ptt: succeed at 53 KiB/s
+2020-10-26 19:18:56 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-26 19:18:57 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-26 19:19:13 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 19:19:13 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 21:48:35 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-26 21:48:35 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-26 21:48:35 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-26 21:48:35 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-26 21:48:35 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-26 21:48:35 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-26 21:49:01 V/Net 2163973016: Send: PttStore.GroupPttUp
+2020-10-26 21:49:02 V/Net 2163973016: Recv: RequireUpload(fileId=1495236486, uKey=[48, -127, -111, 2, 1, 1, 4, -127, -119, 48, -127, -122, 2, 1, 1, 2, 1, 1, 2, 4, -128, -5, -101, -104, 2, 2, 0, -1, 2, 4, 39, 65, -32, 112, 4, 16, -71, 46, -116, 82, -59, -43, 42, -56, -48, -88, 107, 1, 96, 84, 12, 54, 2, 1, 2, 2, 2, 13, -37, 4, 16, -71, 46, -116, 82, -59, -43, 42, -56, -48, -88, 107, 1, 96, 84, 12, 54, 2, 4, 95, -106, -45, -51, 4, 36, 103, 48, 122, 51, 86, 116, 82, 70, 118, 51, 85, 35, 114, 121, 112, 75, 75, 77, 69, 107, 53, 110, 74, 97, 56, 51, 100, 71, 72, 53, 48, 111, 107, 78, 119, 100, 2, 3, 122, 26, -2, 2, 4, 121, 87, -89, -33, 2, 4, 96, -90, -50, -116, 2, 4, 54, 12, 84, 96, 4, 0, 4, 0])
+2020-10-26 21:49:02 V/Net 2163973016: [Highway] Uploading ptt to 223.167.87.121:80, size=3.46 KiB
+2020-10-26 21:49:02 V/Net 2163973016: [Highway] Uploading ptt: succeed at 12 KiB/s
+2020-10-26 21:49:02 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-26 21:49:02 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-26 21:49:24 V/Net 2163973016: Send: PttStore.GroupPttUp
+2020-10-26 21:49:24 V/Net 2163973016: Recv: RequireUpload(fileId=1595089435, uKey=[48, -127, -111, 2, 1, 1, 4, -127, -119, 48, -127, -122, 2, 1, 1, 2, 1, 1, 2, 4, -128, -5, -101, -104, 2, 2, 0, -1, 2, 4, 39, 65, -32, 112, 4, 16, -56, -115, -106, -88, -72, -79, -11, 40, 95, 111, 38, -86, -123, -65, -65, 52, 2, 1, 2, 2, 2, 9, -117, 4, 16, -56, -115, -106, -88, -72, -79, -11, 40, 95, 111, 38, -86, -123, -65, -65, 52, 2, 4, 95, -106, -45, -29, 4, 36, 103, 48, 122, 51, 77, 112, 71, 80, 99, 50, 85, 35, 114, 121, 57, 79, 100, 113, 57, 71, 85, 54, 114, 90, 69, 89, 82, 114, 67, 69, 113, 120, 95, 35, 98, 100, 2, 3, 122, 26, -2, 2, 4, 112, -90, -50, -116, 2, 4, -4, -105, -90, -33, 2, 4, 52, -65, -65, -123, 4, 0, 4, 0])
+2020-10-26 21:49:24 V/Net 2163973016: [Highway] Uploading ptt to 140.206.166.112:80, size=2.39 KiB
+2020-10-26 21:49:24 V/Net 2163973016: [Highway] Uploading ptt: succeed at 21 KiB/s
+2020-10-26 21:49:24 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-26 21:49:24 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-26 21:49:32 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 21:49:32 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 21:49:37 V/Net 2163973016: Send: PttStore.GroupPttUp
+2020-10-26 21:49:37 V/Net 2163973016: Recv: RequireUpload(fileId=1639996098, uKey=[48, -127, -111, 2, 1, 1, 4, -127, -119, 48, -127, -122, 2, 1, 1, 2, 1, 1, 2, 4, -128, -5, -101, -104, 2, 2, 0, -1, 2, 4, 39, 65, -32, 112, 4, 16, 16, 0, -30, -110, 67, -126, -21, -32, -49, -4, -30, 60, -57, -10, 124, 104, 2, 1, 2, 2, 2, 13, -37, 4, 16, 16, 0, -30, -110, 67, -126, -21, -32, -49, -4, -30, 60, -57, -10, 124, 104, 2, 4, 95, -106, -45, -16, 4, 36, 103, 48, 122, 51, 66, 111, 71, 80, 99, 50, 85, 35, 114, 121, 57, 52, 48, 56, 75, 65, 51, 57, 85, 87, 119, 95, 99, 95, 121, 80, 80, 78, 83, 80, 55, 113, 2, 3, 122, 26, -2, 2, 4, 37, -90, -50, -116, 2, 4, -55, -105, -90, -33, 2, 4, 104, 124, -10, -57, 4, 0, 4, 0])
+2020-10-26 21:49:37 V/Net 2163973016: [Highway] Uploading ptt to 140.206.166.37:80, size=3.46 KiB
+2020-10-26 21:49:37 V/Net 2163973016: [Highway] Uploading ptt: succeed at 31 KiB/s
+2020-10-26 21:49:37 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-26 21:49:37 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-26 21:49:37 V/Net 2163973016: Send: PttStore.GroupPttUp
+2020-10-26 21:49:38 V/Net 2163973016: Recv: RequireUpload(fileId=2119822765, uKey=[48, -127, -111, 2, 1, 1, 4, -127, -119, 48, -127, -122, 2, 1, 1, 2, 1, 1, 2, 4, -128, -5, -101, -104, 2, 2, 0, -1, 2, 4, 39, 65, -32, 112, 4, 16, -35, 48, -40, 58, 34, 10, 14, 124, 82, -45, 8, 17, -93, 78, 78, 80, 2, 1, 2, 2, 2, 13, -37, 4, 16, -35, 48, -40, 58, 34, 10, 14, 124, 82, -45, 8, 17, -93, 78, 78, 80, 2, 4, 95, -106, -45, -15, 4, 36, 103, 48, 122, 51, 81, 116, 82, 70, 118, 51, 85, 35, 114, 121, 112, 84, 77, 119, 74, 101, 121, 69, 119, 51, 89, 57, 82, 81, 56, 52, 78, 69, 101, 86, 52, 107, 2, 3, 122, 26, -2, 2, 4, 116, 87, -89, -33, 2, 4, 37, -90, -50, -116, 2, 4, 80, 78, 78, -93, 4, 0, 4, 0])
+2020-10-26 21:49:38 V/Net 2163973016: [Highway] Uploading ptt to 223.167.87.116:80, size=3.46 KiB
+2020-10-26 21:49:38 V/Net 2163973016: [Highway] Uploading ptt: succeed at 28 KiB/s
+2020-10-26 21:49:38 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-26 21:49:38 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-26 21:50:02 V/Net 2163973016: Send: PttStore.GroupPttUp
+2020-10-26 21:50:02 V/Net 2163973016: Recv: RequireUpload(fileId=1549977613, uKey=[48, -127, -111, 2, 1, 1, 4, -127, -119, 48, -127, -122, 2, 1, 1, 2, 1, 1, 2, 4, -128, -5, -101, -104, 2, 2, 0, -1, 2, 4, 39, 65, -32, 112, 4, 16, 81, 11, 14, -111, 75, -100, -43, -52, -111, -52, -44, -15, -20, 98, 17, -1, 2, 1, 2, 2, 2, 13, -38, 4, 16, 81, 11, 14, -111, 75, -100, -43, -52, -111, -52, -44, -15, -20, 98, 17, -1, 2, 4, 95, -106, -44, 10, 4, 36, 103, 48, 122, 51, 78, 116, 82, 70, 118, 51, 85, 35, 114, 121, 112, 107, 98, 85, 103, 65, 98, 78, 112, 82, 99, 55, 57, 80, 107, 55, 102, 88, 121, 53, 78, 95, 2, 3, 122, 26, -2, 2, 4, 113, 87, -89, -33, 2, 4, -71, -105, -90, -33, 2, 4, -1, 17, 98, -20, 4, 0, 4, 0])
+2020-10-26 21:50:02 V/Net 2163973016: [Highway] Uploading ptt to 223.167.87.113:80, size=3.46 KiB
+2020-10-26 21:50:03 V/Net 2163973016: [Highway] Uploading ptt: succeed at 27 KiB/s
+2020-10-26 21:50:03 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-26 21:50:03 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-26 21:50:32 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 21:50:32 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 21:51:14 V/Net 2163973016: Send: PttStore.GroupPttUp
+2020-10-26 21:51:14 V/Net 2163973016: Recv: RequireUpload(fileId=1130218481, uKey=[48, -127, -111, 2, 1, 1, 4, -127, -119, 48, -127, -122, 2, 1, 1, 2, 1, 1, 2, 4, -128, -5, -101, -104, 2, 2, 0, -1, 2, 4, 39, 65, -32, 112, 4, 16, -38, 102, 98, 127, -69, 24, -117, -84, 87, 62, 110, -116, -68, -126, -59, 124, 2, 1, 2, 2, 2, 9, -118, 4, 16, -38, 102, 98, 127, -69, 24, -117, -84, 87, 62, 110, -116, -68, -126, -59, 124, 2, 4, 95, -106, -44, 81, 4, 36, 103, 48, 122, 51, 79, 116, 82, 70, 118, 51, 85, 35, 114, 121, 70, 83, 67, 57, 83, 118, 88, 121, 78, 121, 73, 117, 66, 102, 75, 78, 56, 76, 50, 109, 99, 118, 2, 3, 122, 26, -2, 2, 4, 114, 87, -89, -33, 2, 4, 21, -90, -50, -116, 2, 4, 124, -59, -126, -68, 4, 0, 4, 0])
+2020-10-26 21:51:14 V/Net 2163973016: [Highway] Uploading ptt to 223.167.87.114:80, size=2.38 KiB
+2020-10-26 21:51:14 V/Net 2163973016: [Highway] Uploading ptt: succeed at 18 KiB/s
+2020-10-26 21:51:14 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-26 21:51:14 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-26 21:51:32 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 21:51:32 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 21:56:31 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-26 21:56:31 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-26 21:56:31 I/Net 2163973016: ConfigPushSvc.PushReq: Success
+2020-10-26 21:56:31 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-26 21:56:37 V/Net 2163973016: Send: PttStore.GroupPttUp
+2020-10-26 21:56:37 V/Net 2163973016: Recv: RequireUpload(fileId=1728419159, uKey=[48, -127, -110, 2, 1, 1, 4, -127, -118, 48, -127, -121, 2, 1, 1, 2, 1, 1, 2, 4, -128, -5, -101, -104, 2, 2, 0, -1, 2, 4, 39, 65, -32, 112, 4, 16, -69, -17, 69, -28, -78, 90, -72, -76, -112, 49, -84, 58, -30, -1, -70, -127, 2, 1, 2, 2, 3, 1, 77, -112, 4, 16, -69, -17, 69, -28, -78, 90, -72, -76, -112, 49, -84, 58, -30, -1, -70, -127, 2, 4, 95, -106, -43, -108, 4, 36, 103, 48, 122, 51, 80, 116, 82, 70, 118, 51, 85, 35, 114, 121, 86, 75, 76, 110, 52, 86, 79, 71, 53, 75, 81, 50, 112, 99, 73, 71, 122, 85, 95, 72, 114, 119, 2, 3, 122, 26, -2, 2, 4, 115, 87, -89, -33, 2, 4, 119, 87, -89, -33, 2, 4, -127, -70, -1, -30, 4, 0, 4, 0])
+2020-10-26 21:56:37 V/Net 2163973016: [Highway] Uploading ptt to 223.167.87.115:80, size=83.39 KiB
+2020-10-26 21:56:37 V/Net 2163973016: [Highway] Uploading ptt: succeed at 173 KiB/s
+2020-10-26 21:56:37 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-26 21:56:38 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-26 21:57:16 V/Net 2163973016: Send: PttStore.GroupPttUp
+2020-10-26 21:57:16 V/Net 2163973016: Recv: RequireUpload(fileId=1086088686, uKey=[48, -127, -111, 2, 1, 1, 4, -127, -119, 48, -127, -122, 2, 1, 1, 2, 1, 1, 2, 4, -128, -5, -101, -104, 2, 2, 0, -1, 2, 4, 39, 65, -32, 112, 4, 16, -70, -34, 103, -124, -97, 30, 40, -122, 72, -22, 35, -6, -73, -7, -78, 110, 2, 1, 2, 2, 2, 26, 112, 4, 16, -70, -34, 103, -124, -97, 30, 40, -122, 72, -22, 35, -6, -73, -7, -78, 110, 2, 4, 95, -106, -43, -69, 4, 36, 103, 48, 122, 51, 111, 111, 71, 80, 99, 50, 85, 35, 114, 121, 70, 75, 117, 118, 54, 120, 118, 87, 49, 97, 54, 121, 65, 87, 122, 69, 95, 74, 86, 98, 72, 114, 2, 3, 122, 26, -2, 2, 4, 24, -90, -50, -116, 2, 4, 12, 87, -89, -33, 2, 4, 110, -78, -7, -73, 4, 0, 4, 0])
+2020-10-26 21:57:16 V/Net 2163973016: [Highway] Uploading ptt to 140.206.166.24:80, size=6.61 KiB
+2020-10-26 21:57:16 V/Net 2163973016: [Highway] Uploading ptt: succeed at 47 KiB/s
+2020-10-26 21:57:16 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-26 21:57:16 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-26 21:57:28 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 21:57:28 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 21:57:28 V/Net 2163973016: Send: PttStore.GroupPttUp
+2020-10-26 21:57:28 V/Net 2163973016: Recv: RequireUpload(fileId=1650640607, uKey=[48, -127, -111, 2, 1, 1, 4, -127, -119, 48, -127, -122, 2, 1, 1, 2, 1, 1, 2, 4, -128, -5, -101, -104, 2, 2, 0, -1, 2, 4, 39, 65, -32, 112, 4, 16, 101, -77, 12, 14, -9, 6, 110, -9, 88, -27, -85, 92, -71, -116, -28, 3, 2, 1, 2, 2, 2, 15, 48, 4, 16, 101, -77, 12, 14, -9, 6, 110, -9, 88, -27, -85, 92, -71, -116, -28, 3, 2, 4, 95, -106, -43, -56, 4, 36, 103, 48, 122, 51, 89, 118, 70, 70, 118, 51, 85, 35, 114, 121, 112, 112, 80, 79, 119, 51, 84, 114, 119, 114, 84, 122, 108, 86, 72, 79, 108, 75, 99, 105, 35, 48, 2, 3, 122, 26, -2, 2, 4, -4, -105, -90, -33, 2, 4, 12, 87, -89, -33, 2, 4, 3, -28, -116, -71, 4, 0, 4, 0])
+2020-10-26 21:57:28 V/Net 2163973016: [Highway] Uploading ptt to 223.166.151.252:80, size=3.8 KiB
+2020-10-26 21:57:28 V/Net 2163973016: [Highway] Uploading ptt: succeed at 33 KiB/s
+2020-10-26 21:57:28 V/Net 2163973016: Send: MessageSvc.PbSendMsg
+2020-10-26 21:57:29 V/Net 2163973016: Recv: MessageSvcPbSendMsg.Response.SUCCESS
+2020-10-26 21:58:28 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 21:58:28 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 21:59:28 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 21:59:28 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:00:28 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:00:28 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:01:28 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:01:28 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:02:28 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:02:28 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:03:28 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:03:28 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:04:28 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:04:28 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:05:28 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:05:28 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:06:28 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:06:29 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:07:29 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:07:29 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:08:29 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:08:29 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:09:29 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:09:29 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:10:29 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:10:29 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:11:29 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:11:29 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:12:29 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:12:29 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:13:13 I/Net 2163973016: Connected to server 42.81.172.81:80
+2020-10-26 22:13:13 V/Net 2163973016: Send: wtlogin.login
+2020-10-26 22:13:13 V/Net 2163973016: Recv: LoginPacketResponse.Success
+2020-10-26 22:13:13 I/Net 2163973016: Login successful
+2020-10-26 22:13:13 V/Net 2163973016: Send: StatSvc.register
+2020-10-26 22:13:14 V/Net 2163973016: Recv: Response(StatSvc.register)
+2020-10-26 22:13:14 I/Net 2163973016: Syncing friend message history...
+2020-10-26 22:13:14 V/Net 2163973016: Send: MessageSvc.PbGetMsg
+2020-10-26 22:13:14 I/Net 2163973016: Syncing friend message history: Success
+2020-10-26 22:13:17 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-26 22:13:17 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-26 22:13:17 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-26 22:14:14 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:14:14 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:15:14 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:15:14 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:16:14 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:16:14 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:17:14 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:17:14 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:18:14 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:18:14 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:19:14 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:19:14 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:20:14 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:20:14 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:21:14 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:21:14 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:22:14 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:22:14 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:23:14 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:23:14 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:24:14 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:24:14 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:25:14 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:25:14 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:26:15 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:26:15 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:27:15 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:27:15 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:28:15 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:28:15 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:29:15 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:29:15 V/Net 2163973016: Recv: Heartbeat.Alive.Response
+2020-10-26 22:29:58 I/Net 2163973016: Connected to server 114.221.148.59:14000
+2020-10-26 22:29:58 V/Net 2163973016: Send: wtlogin.login
+2020-10-26 22:29:58 V/Net 2163973016: Recv: LoginPacketResponse.Success
+2020-10-26 22:29:58 I/Net 2163973016: Login successful
+2020-10-26 22:29:58 V/Net 2163973016: Send: StatSvc.register
+2020-10-26 22:29:59 V/Net 2163973016: Recv: Response(StatSvc.register)
+2020-10-26 22:29:59 I/Net 2163973016: Syncing friend message history...
+2020-10-26 22:29:59 V/Net 2163973016: Send: MessageSvc.PbGetMsg
+2020-10-26 22:29:59 I/Net 2163973016: Syncing friend message history: Success
+2020-10-26 22:30:02 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-26 22:30:02 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-26 22:30:02 D/Net 2163973016: Received unknown commandName: ConfigPushSvc.PushDomain
+2020-10-26 22:30:02 V/Net 2163973016: Recv: ConfigPushSvc.PushReq.PushReqResponse.Success
+2020-10-26 22:30:02 V/Net 2163973016: Send: ConfigPushSvc.PushResp
+2020-10-26 22:30:59 V/Net 2163973016: Send: Heartbeat.Alive
+2020-10-26 22:30:59 V/Net 2163973016: Recv: Heartbeat.Alive.Response
